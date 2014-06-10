@@ -10,15 +10,15 @@
 					},
 					{
 						"label": "Highly Credible",
-						"value": "25"
+						"value": 25
 					},
 					{
 						"label": "Credible",
-						"value": "18"
+						"value": 18
 					},
 					{
 						"label": "Less Credible",
-						"value": "17"
+						"value": 17
 					}
 			]
 
@@ -29,15 +29,15 @@
 		"values": [
 				{
 					"label": "Don’t Know / Can’t Say",
-					"value": "7"
+					"value": 7
 				},
 				{
 					"label": "Abbreviated",
-					"value": "53"
+					"value": 53
 				},
 				{
 					"label": "Full Five Year",
-					"value": "40"
+					"value": 40
 				}
 			]
 
@@ -49,9 +49,9 @@
 			{
 				"key" : "Among the Three Leaders, With Which Leader are You Satisfied Most?",
 				"values": [
-						{ "label" : "Sheikh Hasina", "value" : "42" },
-						{ "label" : "Khaleda Zia", "value" : "43" },
-						{ "label" : "H.M. Ershad", "value" : "15" }
+						{ "label" : "Sheikh Hasina", "value" : 42 },
+						{ "label" : "Khaleda Zia", "value" : 43 },
+						{ "label" : "H.M. Ershad", "value" : 15 }
 					]
 			}, {
 				"key": "Most Reliable in Fulfilling the Commitments Given in the Time of Election",
@@ -70,18 +70,18 @@
 					{
 						"key": "In Your Opinion, Should There Be Another Election Before Five Years (Within Five Years of Current Government)?",
 					"values": [
-							{ "label": "Don’t Know / Can’t Say", "value": "6" },
-							{ "label": "No", "value": "35" },
-							{ "label": "Yes", "value": "59" }
+							{ "label": "Don’t Know / Can’t Say", "value": 6 },
+							{ "label": "No", "value": 35 },
+							{ "label": "Yes", "value": 59 }
 						]
 
 				}, {
 					"key": "Do You Think There Will Be One?",
 					"type": "Pie",
 					"values": [
-							{ "label": "Don’t Know / Can’t Say", "value": "9" },
-							{ "label": "No", "value": "34" },
-							{ "label": "Yes", "value": "58" }
+							{ "label": "Don’t Know / Can’t Say", "value": 9 },
+							{ "label": "No", "value": 34 },
+							{ "label": "Yes", "value": 58 }
 						]
 
 				}
