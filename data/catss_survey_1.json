@@ -1,66 +1,162 @@
 [
-	{
-		"key":"Is Bangladesh Headed in the Right Direction or Wrong Direction?",
+    {
+        "key": "Is Bangladesh Headed in the Right Direction or Wrong Direction?",
         "date": "Apr 2014",
-		"type": "Pie",
-		"values":[
-			{ "label":"Wrong Direction", "value":54 },
-			{ "label":"Right Direction", "value":32 },
-			{ "label":"Don't Know", "value":14 }
-		]
-
-	}, {
-		"key":"For Which Party Would You Vote if Elections Were Held Today?",
-        "date": "Apr 2014",
-		"type": "DiscretBar",
-		"values":[
-		{ "label":"BNP", "value":24 },
-		{ "label":"AL", "value":22 },
-		{ "label":"JP", "value": 1 },
-		{ "label":"Jamaat e Islami", "value": 1 },
-		{ "label":"Undecided", "value":30 },
-		{ "label":"Refused To Answer", "value":10 }
-		]
-
-	}, {
-		"key":"Should There Be New Elections Within the Next Five Years?",
-		"date": "Apr 2014",
         "type": "Pie",
-		"values":[
-		{ "label":"Yes", "value":55, "series":0 },
-		{ "label":"No", "value":31, "series":0 },
-		{ "label":"Don't Know", "value":14, "series":0 }
-		]
-
-	}, {
-		"key":"Will There Be New Elections Within the Next Five Years?",
-		"date": "Apr 2014",
+        "colors": [
+            "#EE0000",
+            "#0000EE",
+            "#5D478B"
+        ],
+        "values": [
+            {
+                "label": "Wrong Direction",
+                "value": 54
+            },
+            {
+                "label": "Right Direction",
+                "value": 32
+            },
+            {
+                "label": "Don't Know",
+                "value": 14
+            }
+        ]
+    },
+    {
+        "key": "For Which Party Would You Vote if Elections Were Held Today?",
+        "date": "Apr 2014",
+        "type": "DiscretBar",
+        "colors": [
+            "#EE0000",
+            "#008000",
+            "#A020F0",
+            "#0000EE",
+            "#FFE600",
+            "#696969"
+        ],
+        "values": [
+            {
+                "label": "BNP",
+                "value": 24
+            },
+            {
+                "label": "AL",
+                "value": 22
+            },
+            {
+                "label": "JP",
+                "value": 1
+            },
+            {
+                "label": "Jamaat e Islami",
+                "value": 1
+            },
+            {
+                "label": "Undecided",
+                "value": 30
+            },
+            {
+                "label": "Refused To Answer",
+                "value": 10
+            }
+        ]
+    },
+    {
+        "key": "Should There Be New Elections Within the Next Five Years?",
+        "date": "Apr 2014",
         "type": "Pie",
-		"values":[
-		{ "label":"Yes", "value":19 },
-		{ "label":"No", "value":57 },
-		{ "label":"Don't Know", "value":24 }
-		]
-
-	}, {
-		"key":"Were the Upazilla Elections Free & Fair?",
-		"type": "Pie",
+        "colors": [
+            "#00EEEE",
+            "#EE0000",
+            "#A020F0"
+        ],
+        "values": [
+            {
+                "label": "Yes",
+                "value": 55,
+                "series": 0
+            },
+            {
+                "label": "No",
+                "value": 31,
+                "series": 0
+            },
+            {
+                "label": "Don't Know",
+                "value": 14,
+                "series": 0
+            }
+        ]
+    },
+    {
+        "key": "Will There Be New Elections Within the Next Five Years?",
         "date": "Apr 2014",
-		"values":[
-		{ "label":"Free & Fair", "value":39, "series":0 },
-		{ "label":"Not Free & Fair", "value":49, "series":0 },
-		{ "label":"Don't Know", "value":12, "series":0 }
-		]
-
-	}, {
-		"key":"Did Voter Confidence in the Bangladesh Election Commission Increase or Decrease After the Upazila Elections?",
-		"type": "Pie",
+        "type": "Pie",
+        "colors": [
+            "#00EEEE",
+            "#EE0000",
+            "#A020F0"
+        ],
+        "values": [
+            {
+                "label": "Yes",
+                "value": 19
+            },
+            {
+                "label": "No",
+                "value": 57
+            },
+            {
+                "label": "Don't Know",
+                "value": 24
+            }
+        ]
+    },
+    {
+        "key": "Were the Upazilla Elections Free & Fair?",
+        "type": "Pie",
         "date": "Apr 2014",
-		"values":[
-		{ "label":"Increase", "value":30 },
-		{ "label":"Decrease", "value":52 },
-		{ "label":"Don't Know", "value":18 }
-		]
-	}
+        "values": [
+            {
+                "label": "Free & Fair",
+                "value": 39,
+                "series": 0
+            },
+            {
+                "label": "Not Free & Fair",
+                "value": 49,
+                "series": 0
+            },
+            {
+                "label": "Don't Know",
+                "value": 12,
+                "series": 0
+            }
+        ]
+    },
+    {
+        "key": "Did Voter Confidence in the Bangladesh Election Commission Increase or Decrease After the Upazila Elections?",
+        "type": "Pie",
+        "date": "Apr 2014",
+        "colors": [
+            "#00EEEE",
+            "#EE0000",
+            "#A020F0"
+        ],
+        "values": [
+            {
+                "label": "Increase",
+                "value": 30
+            },
+            {
+                "label": "Decrease",
+                "value": 52
+            },
+            {
+                "label": "Don't Know",
+                "value": 18
+            }
+        ]
+    }
 ]
-
