@@ -3,11 +3,7 @@
         "key": "Is Bangladesh Headed in the Right Direction or Wrong Direction?",
         "date": "Apr 2014",
         "type": "Pie",
-        "colors": [
-            "#EE0000",
-            "#0000EE",
-            "#5D478B"
-        ],
+        "colors": [ "#E25757", "#4EA2DE", "#5D478B" ],
         "values": [
             {
                 "label": "Wrong Direction",
@@ -28,10 +24,10 @@
         "date": "Apr 2014",
         "type": "DiscretBar",
         "colors": [
-            "#EE0000",
+            "#E25757",
             "#008000",
             "#A020F0",
-            "#0000EE",
+            "#4EA2DE",
             "#FFE600",
             "#696969"
         ],
@@ -67,8 +63,8 @@
         "date": "Apr 2014",
         "type": "Pie",
         "colors": [
-            "#00EEEE",
-            "#EE0000",
+            "#4EA2DE",
+            "#E25757",
             "#A020F0"
         ],
         "values": [
@@ -94,8 +90,8 @@
         "date": "Apr 2014",
         "type": "Pie",
         "colors": [
-            "#00EEEE",
-            "#EE0000",
+            "#4EA2DE",
+            "#E25757",
             "#A020F0"
         ],
         "values": [
@@ -117,6 +113,11 @@
         "key": "Were the Upazilla Elections Free & Fair?",
         "type": "Pie",
         "date": "Apr 2014",
+        "colors": [
+            "#4EA2DE",
+            "#E25757",
+            "#A020F0"
+        ],
         "values": [
             {
                 "label": "Free & Fair",
@@ -140,8 +141,8 @@
         "type": "Pie",
         "date": "Apr 2014",
         "colors": [
-            "#00EEEE",
-            "#EE0000",
+            "#4EA2DE",
+            "#E25757",
             "#A020F0"
         ],
         "values": [
