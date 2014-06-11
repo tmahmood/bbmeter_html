@@ -2,7 +2,7 @@
 	{
 		"type": "DiscretBar",
         "date": "Jan 2014",
-		"colors": ["#ddd", "#eee", "lightred", "#bbb"],
+		"colors": ["#0000EE", "#AAAAFF", "#EE6363", "#EE0000"],
 		"key": "The New Government Which Will Be Formed as a Result of this Election Will be Highly Credible, Credible, Less Credible or Not Credible?",
 		"values": [
 					{
@@ -27,6 +27,7 @@
 		"key": "Should the Next Government Be in Power for a Full Five Year Term or Less Than Five Years (Abbreviated)?",
         "date": "Jan 2014",
 		"type": "DiscretBar",
+		"colors": ["#0000EE", "#EE0000", "#A020F0"],
 		"values": [
 				{
 					"label": "Full Five Year",
@@ -44,6 +45,7 @@
 	}, {
 		"key": "Perception of Leaders",
 		"type": "GroupedMultiBar",
+		"colors": ["#008000", "#EE0000", "#A020F0"],
         "date": "Mar 2013",
 		"values": [
 			{
@@ -74,6 +76,7 @@
 		"key": "Should There Be / Will There Be New Elections Within the Next Five Years?",
         "date": "Jan 2014",
 		"type": "GroupedMultiBar",
+		"colors": ["#0000EE", "#EE0000", "#A020F0"],
 		"values" : [
 					{
 						"key": "Should There Be New Elections Before Five Years?",
