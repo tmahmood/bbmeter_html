@@ -2,11 +2,13 @@
 	{
 		"type": "DiscretBar",
         "date": "Jan 2014",
+		"colors": ["#ddd", "#eee", "lightred", "#bbb"],
 		"key": "In Your Opinion, the New Government Which Will Be Formed as a Result of this Election Will be Highly Credible, Credible, Less Credible or Not Credible?",
 		"values": [
 					{
 						"label": "Not Credible",
 						"value": 40
+
 					},
 					{
 						"label": "Highly Credible",
