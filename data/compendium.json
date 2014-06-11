@@ -98,8 +98,8 @@
 
 		"key": "In Your Opinion, What are the Three Main Problems Faced by Bangladesh?",
         "date": "Nov 2012 - Jan 2014",
-		"type": "GroupedMultiBar" ,
-			"values" : [ {
+		"type": "GroupedMultiBar",
+		"values" : [ {
 				"key": "Political Instability",
 				"values": [
 					{ "label": "Nov 2012", "value": 5 },
@@ -230,166 +230,163 @@
 				]
 			}
         ]
-    },
-            {
-                "key": "Overall, Do You Think Things in Bangladesh are Headed in the Right Direction or the Wrong Direction?",
-                "date": "Nov 2012 - Jan 2014",
-		        "type": "SimpleLine1" ,
-			    "values" : [ {
-				"key": "Wrong Direction",
-                "color": "#d62728",
-				"values": [
-                    [1354286240000,47],
-                    [1364740640000,68],
-                    [1367332640000,84],
-                    [1375281440000,58],
-                    [1383230240000,54],
-                    [1385822240000,62],
-                    [1391179040000,69]
-                    ]
-                }, {
-                "key": "Right Direction",
-                "color": "#1f77b4",
-                "values": [
-                    [1354286240000,46],
-                    [1364740640000,25],
-                    [1367332640000,14],
-                    [1375281440000,37],
-                    [1383230240000,46],
-                    [1385822240000,32],
-                    [1391179040000,29]
-                    ]
-                }, {
-                "key": "Don't Know",
-                "color": "purple",
-                "values":  [
-                    [1354286240000,7],
-                    [1364740640000,7],
-                    [1367332640000,2],
-                    [1375281440000,5],
-                    [1383230240000,0],
-                    [1385822240000,6],
-                    [1391179040000,2]
-                    ]
-                }
-            ]
-    },
-            {
-                "key": "Why Do You Think Things are Headed in the Right Direction?",
-                "date": "Apr 2013 - Jan 2014",
-                "type": "GroupedMultiBar",
-                "values": [ {
-                "key": "Education Improved",
-                "values": [
-                    {"label": "Apr 2013","value": 37},
-                    {"label": "Jul 2013","value": 63},
-                    {"label": "Oct 2013","value": 65},
-                    {"label": "Nov 2013","value": 61},
-                    {"label": "Jan 2014","value": 46}
-                    ]
-                 }, {
-                "key": "Good Economy",
-                "values": [
-                    {"label": "Apr 2013","value": 28},
-                    {"label": "Jul 2013","value": 24},
-                    {"label": "Oct 2013","value": 33},
-                    {"label": "Nov 2013","value": 45},
-                    {"label": "Jan 2014","value": 38}
-                    ]
-                }, {
-                "key": "Controlled Commodities Prices",
-                "values": [
-                    {"label": "Apr 2013","value": 28},
-                    {"label": "Jul 2013","value": 17},
-                    {"label": "Oct 2013","value": 23},
-                    {"label": "Nov 2013","value": 15},
-                    {"label": "Jan 2014","value": 22}
-                    ]
-                }, {
-                "key": "Law & Order Improved",
-                "values": [
-                    {"label": "Apr 2013","value": 28},
-                    {"label": "Jul 2013","value": 26},
-                    {"label": "Oct 2013","value": 29},
-                    {"label": "Nov 2013","value": 15},
-                    {"label": "Jan 2014","value": 18}
-                    ]
-                }, {
-                "key": "Electricity Production",
-                "values": [
-                    {"label": "Apr 2013","value": null},
-                    {"label": "Jul 2013","value": null},
-                    {"label": "Oct 2013","value": null},
-                    {"label": "Nov 2013","value": null},
-                    {"label": "Jan 2014","value": 17}
-                    ]
-                },{
-                "key": "Increased Employment",
-                "values": [
-                    {"label": "Apr 2013","value": 15},
-                    {"label": "Jul 2013","value": 10},
-                    {"label": "Oct 2013","value": 15},
-                    {"label": "Nov 2013","value": 17},
-                    {"label": "Jan 2014","value": 16}
-                    ]
-                },{
-                "key": "My Party is in Power",
-                "values": [
-                    {"label": "Apr 2013","value": 9},
-                    {"label": "Jul 2013","value": 19},
-                    {"label": "Oct 2013","value": 16},
-                    {"label": "Nov 2013","value": 10},
-                    {"label": "Jan 2014","value": 14}
-                    ]
-                }, {
-                "key": "Health Improvements",
-                "values": [
-                    {"label": "Apr 2013","value": 14},
-                    {"label": "Jul 2013","value": 26},
-                    {"label": "Oct 2013","value": 30},
-                    {"label": "Nov 2013","value": 18},
-                    {"label": "Jan 2014","value": 13}
-                    ]
-                }, {
-                "key": "War Crime Justice",
-                "values": [
-                    {"label": "Apr 2013","value": 17},
-                    {"label": "Jul 2013","value": 11},
-                    {"label": "Oct 2013","value": 30},
-                    {"label": "Nov 2013","value": 5},
-                    {"label": "Jan 2014","value": 10}
-                    ]
-                }, {
-                "key": "Good Job / Income",
-                "values": [
-                    {"label": "Apr 2013","value": 5},
-                    {"label": "Jul 2013","value": 8},
-                    {"label": "Oct 2013","value": 11},
-                    {"label": "Nov 2013","value": 7},
-                    {"label": "Jan 2014","value": 9}
-                    ]
-                },{
-                "key": "Industry Increased",
-                "values": [
-                    {"label": "Apr 2013","value": 7},
-                    {"label": "Jul 2013","value": 8},
-                    {"label": "Oct 2013","value": 6},
-                    {"label": "Nov 2013","value": 5},
-                    {"label": "Jan 2014","value": 5}
-                    ]
-                },{
-                "key": "Easy to Go Abroad",
-                "values": [
-                    {"label": "Apr 2013","value": 7},
-                    {"label": "Jul 2013","value": 7},
-                    {"label": "Oct 2013","value": 5},
-                    {"label": "Nov 2013","value": 5},
-                    {"label": "Jan 2014","value": 5}
-                    ]
-                }
-            ]
-        },
-         {
+    }, {
+			"key": "Overall, Do You Think Things in Bangladesh are Headed in the Right Direction or the Wrong Direction?",
+			"date": "Nov 2012 - Jan 2014",
+			"type": "SimpleLine1" ,
+			"values" : [ {
+			"key": "Wrong Direction",
+			"color": "#d62728",
+			"values": [
+				[1354286240000,47],
+				[1364740640000,68],
+				[1367332640000,84],
+				[1375281440000,58],
+				[1383230240000,54],
+				[1385822240000,62],
+				[1391179040000,69]
+				]
+			}, {
+			"key": "Right Direction",
+			"color": "#1f77b4",
+			"values": [
+				[1354286240000,46],
+				[1364740640000,25],
+				[1367332640000,14],
+				[1375281440000,37],
+				[1383230240000,46],
+				[1385822240000,32],
+				[1391179040000,29]
+				]
+			}, {
+			"key": "Don't Know",
+			"color": "purple",
+			"values":  [
+				[1354286240000,7],
+				[1364740640000,7],
+				[1367332640000,2],
+				[1375281440000,5],
+				[1383230240000,0],
+				[1385822240000,6],
+				[1391179040000,2]
+				]
+			}
+		]
+    }, {
+			"key": "Why Do You Think Things are Headed in the Right Direction?",
+			"date": "Apr 2013 - Jan 2014",
+			"type": "GroupedMultiBar",
+			"values": [ {
+			"key": "Education Improved",
+			"values": [
+				{"label": "Apr 2013","value": 37},
+				{"label": "Jul 2013","value": 63},
+				{"label": "Oct 2013","value": 65},
+				{"label": "Nov 2013","value": 61},
+				{"label": "Jan 2014","value": 46}
+				]
+			 }, {
+			"key": "Good Economy",
+			"values": [
+				{"label": "Apr 2013","value": 28},
+				{"label": "Jul 2013","value": 24},
+				{"label": "Oct 2013","value": 33},
+				{"label": "Nov 2013","value": 45},
+				{"label": "Jan 2014","value": 38}
+				]
+			}, {
+			"key": "Controlled Commodities Prices",
+			"values": [
+				{"label": "Apr 2013","value": 28},
+				{"label": "Jul 2013","value": 17},
+				{"label": "Oct 2013","value": 23},
+				{"label": "Nov 2013","value": 15},
+				{"label": "Jan 2014","value": 22}
+				]
+			}, {
+			"key": "Law & Order Improved",
+			"values": [
+				{"label": "Apr 2013","value": 28},
+				{"label": "Jul 2013","value": 26},
+				{"label": "Oct 2013","value": 29},
+				{"label": "Nov 2013","value": 15},
+				{"label": "Jan 2014","value": 18}
+				]
+			}, {
+			"key": "Electricity Production",
+			"values": [
+				{"label": "Apr 2013","value": null},
+				{"label": "Jul 2013","value": null},
+				{"label": "Oct 2013","value": null},
+				{"label": "Nov 2013","value": null},
+				{"label": "Jan 2014","value": 17}
+				]
+			},{
+			"key": "Increased Employment",
+			"values": [
+				{"label": "Apr 2013","value": 15},
+				{"label": "Jul 2013","value": 10},
+				{"label": "Oct 2013","value": 15},
+				{"label": "Nov 2013","value": 17},
+				{"label": "Jan 2014","value": 16}
+				]
+			},{
+			"key": "My Party is in Power",
+			"values": [
+				{"label": "Apr 2013","value": 9},
+				{"label": "Jul 2013","value": 19},
+				{"label": "Oct 2013","value": 16},
+				{"label": "Nov 2013","value": 10},
+				{"label": "Jan 2014","value": 14}
+				]
+			}, {
+			"key": "Health Improvements",
+			"values": [
+				{"label": "Apr 2013","value": 14},
+				{"label": "Jul 2013","value": 26},
+				{"label": "Oct 2013","value": 30},
+				{"label": "Nov 2013","value": 18},
+				{"label": "Jan 2014","value": 13}
+				]
+			}, {
+			"key": "War Crime Justice",
+			"values": [
+				{"label": "Apr 2013","value": 17},
+				{"label": "Jul 2013","value": 11},
+				{"label": "Oct 2013","value": 30},
+				{"label": "Nov 2013","value": 5},
+				{"label": "Jan 2014","value": 10}
+				]
+			}, {
+			"key": "Good Job / Income",
+			"values": [
+				{"label": "Apr 2013","value": 5},
+				{"label": "Jul 2013","value": 8},
+				{"label": "Oct 2013","value": 11},
+				{"label": "Nov 2013","value": 7},
+				{"label": "Jan 2014","value": 9}
+				]
+			},{
+			"key": "Industry Increased",
+			"values": [
+				{"label": "Apr 2013","value": 7},
+				{"label": "Jul 2013","value": 8},
+				{"label": "Oct 2013","value": 6},
+				{"label": "Nov 2013","value": 5},
+				{"label": "Jan 2014","value": 5}
+				]
+			},{
+			"key": "Easy to Go Abroad",
+			"values": [
+				{"label": "Apr 2013","value": 7},
+				{"label": "Jul 2013","value": 7},
+				{"label": "Oct 2013","value": 5},
+				{"label": "Nov 2013","value": 5},
+				{"label": "Jan 2014","value": 5}
+				]
+			}
+		]
+	}, {
                 "key": "Why Do You Think Things are Headed in the Wrong Direction?",
                 "date": "Apr 2013 - Jan 2014",
                 "type": "GroupedMultiBar",
@@ -503,78 +500,77 @@
                 ]
             }
         ]
-    },
-        {
-                "key": "For Which Party Would You Vote If Elections Were Held Today?",
-                "date": "Jun 2012 - Jan 2014",
-		        "type": "SimpleLine2" ,
-			    "values" : [
-                {
-                "key": "Jamaat e Islami",
-                "color": "blue",
-                "values": [
-                    [1338587272000,3],
-                    [1354233600000,2],
-                    [1359590400000,3],
-                    [1367280000000,3],
-                    [1375228800000,1],
-                    [1383264000000,3],
-                    [1385769600000,2],
-                    [1391126400000,3]
-                    ]
-                },{
-                "key": "Jatiya Party",
-                "color": "purple",
-                "values": [
-                    [1338587272000,5],
-                    [1354233600000,13],
-                    [1359590400000,4],
-                    [1367280000000,4],
-                    [1375228800000,3],
-                    [1383264000000,5],
-                    [1385769600000,3],
-                    [1391126400000,3]
-                    ]
-                },{
-                "key": "BNP",
-                "color": "red",
-                "values": [
-                    [1338587272000,25],
-                    [1354233600000,20],
-                    [1359590400000,33],
-                    [1367280000000,37],
-                    [1375228800000,43],
-                    [1383264000000,38],
-                    [1385769600000,36],
-                    [1391126400000,37]
-                    ]
-                },{
-                "key": "AL",
-                "color": "green",
-                "values": [
-                    [1338587272000,25],
-                    [1354233600000,30],
-                    [1359590400000,28],
-                    [1367280000000,28],
-                    [1375228800000,32],
-                    [1383264000000,35],
-                    [1385769600000,33],
-                    [1391126400000,41]
-                    ]
-                },{
-                "key": "Undecided",
-                "color": "yellow",
-                "values": [
-                    [1338587272000,39],
-                    [1354233600000,29],
-                    [1359590400000,31],
-                    [1367280000000,28],
-                    [1375228800000,19],
-                    [1383264000000,13],
-                    [1385769600000,20],
-                    [1391126400000,13]
-                    ]
-                }
-            ]
-        }
+    }, {
+		"key": "For Which Party Would You Vote If Elections Were Held Today?",
+		"date": "Jun 2012 - Jan 2014",
+		"type": "SimpleLine2" ,
+		"values" : [
+			{
+			"key": "Jamaat e Islami",
+			"color": "blue",
+			"values": [
+				[1338587272000,3],
+				[1354233600000,2],
+				[1359590400000,3],
+				[1367280000000,3],
+				[1375228800000,1],
+				[1383264000000,3],
+				[1385769600000,2],
+				[1391126400000,3]
+				]
+			},{
+			"key": "Jatiya Party",
+			"color": "purple",
+			"values": [
+				[1338587272000,5],
+				[1354233600000,13],
+				[1359590400000,4],
+				[1367280000000,4],
+				[1375228800000,3],
+				[1383264000000,5],
+				[1385769600000,3],
+				[1391126400000,3]
+				]
+			},{
+			"key": "BNP",
+			"color": "red",
+			"values": [
+				[1338587272000,25],
+				[1354233600000,20],
+				[1359590400000,33],
+				[1367280000000,37],
+				[1375228800000,43],
+				[1383264000000,38],
+				[1385769600000,36],
+				[1391126400000,37]
+				]
+			},{
+			"key": "AL",
+			"color": "green",
+			"values": [
+				[1338587272000,25],
+				[1354233600000,30],
+				[1359590400000,28],
+				[1367280000000,28],
+				[1375228800000,32],
+				[1383264000000,35],
+				[1385769600000,33],
+				[1391126400000,41]
+				]
+			},{
+			"key": "Undecided",
+			"color": "yellow",
+			"values": [
+				[1338587272000,39],
+				[1354233600000,29],
+				[1359590400000,31],
+				[1367280000000,28],
+				[1375228800000,19],
+				[1383264000000,13],
+				[1385769600000,20],
+				[1391126400000,13]
+				]
+			}
+		]
+	}
 ]

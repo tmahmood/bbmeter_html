@@ -1,135 +1,138 @@
 [
 	{
 		"key": "Political Instability",
-		"type": "GroupedMultiBar" ,
-			"values" : [ {
+		"type": "SimpleLine" ,
+		"values" : [
+			{
 				"key": "Political Instability",
 				"values": [
-					{ "label": "Nov 2012", "value": 5 },
-					{ "label": "Mar 2013", "value": 7 },
-					{ "label": "Apr 2013", "value": 51 },
-					{ "label": "Jul 2013", "value": 45 },
-					{ "label": "Oct 2013", "value": 56 },
-					{ "label": "Nov 2013", "value": 66 },
-					{ "label": "Jan 2014", "value": 72 }
+					[ Date.parse("Nov 2012"),  5 ],
+					[ Date.parse("Mar 2013"),  7 ],
+					[ Date.parse("Apr 2013"),  51 ],
+					[ Date.parse("Jul 2013"),  45 ],
+					[ Date.parse("Oct 2013"),  56 ],
+					[ Date.parse("Nov 2013"),  66 ],
+					[ Date.parse("Jan 2014"),  72 ]
 				]
+
 			}, {
 				"key": "Corruption",
 				"values": [
-					{ "label": "Nov 2012", "value": 10 },
-					{ "label": "Mar 2013", "value": 12 },
-					{ "label": "Apr 2013", "value": 22 },
-					{ "label": "Jul 2013", "value": 27 },
-					{ "label": "Oct 2013", "value": 58 },
-					{ "label": "Nov 2013", "value": 34 },
-					{ "label": "Jan 2014", "value": 43 }
+					[ Date.parse("Nov 2012"),  10 ],
+					[ Date.parse("Mar 2013"),  12 ],
+					[ Date.parse("Apr 2013"),  22 ],
+					[ Date.parse("Jul 2013"),  27 ],
+					[ Date.parse("Oct 2013"),  58 ],
+					[ Date.parse("Nov 2013"),  34 ],
+					[ Date.parse("Jan 2014"),  43 ]
 				]
+
 			}, {
 				"key": "Underdeveloped Roads",
 				"values": [
-					{ "label": "Nov 2012", "value": 25 },
-					{ "label": "Mar 2013", "value": 8 },
-					{ "label": "Apr 2013", "value": 41 },
-					{ "label": "Jul 2013", "value": 36 },
-					{ "label": "Oct 2013", "value": 20 },
-					{ "label": "Nov 2013", "value": 30 },
-					{ "label": "Jan 2014", "value": 32 }
+					[ Date.parse("Nov 2012"),  25 ],
+					[ Date.parse("Mar 2013"),  8 ],
+					[ Date.parse("Apr 2013"),  41 ],
+					[ Date.parse("Jul 2013"),  36 ],
+					[ Date.parse("Oct 2013"),  20 ],
+					[ Date.parse("Nov 2013"),  30 ],
+					[ Date.parse("Jan 2014"),  32 ]
 				]
 
 			}, {
 				"key": "High Prices of Commodities",
 				"values": [
-					{ "label": "Nov 2012", "value": 39 },
-					{ "label": "Mar 2013", "value": 46 },
-					{ "label": "Apr 2013", "value": 47 },
-					{ "label": "Jul 2013", "value": 48 },
-					{ "label": "Oct 2013", "value": 47 },
-					{ "label": "Nov 2013", "value": 53 },
-					{ "label": "Jan 2014", "value": 31 }
+					[ Date.parse("Nov 2012"),  39 ],
+					[ Date.parse("Mar 2013"),  46 ],
+					[ Date.parse("Apr 2013"),  47 ],
+					[ Date.parse("Jul 2013"),  48 ],
+					[ Date.parse("Oct 2013"),  47 ],
+					[ Date.parse("Nov 2013"),  53 ],
+					[ Date.parse("Jan 2014"),  31 ]
 				]
 
 			}, {
 				"key": "Economic Crisis",
 				"values": [
-					{ "label": "Nov 2012", "value": 6 },
-					{ "label": "Mar 2013", "value": 11 },
-					{ "label": "Apr 2013", "value": 17 },
-					{ "label": "Jul 2013", "value": 16 },
-					{ "label": "Oct 2013", "value": 18 },
-					{ "label": "Nov 2013", "value": 16 },
-					{ "label": "Jan 2014", "value": 27 }
+					[ Date.parse("Nov 2012"),  6 ],
+					[ Date.parse("Mar 2013"),  11 ],
+					[ Date.parse("Apr 2013"),  17 ],
+					[ Date.parse("Jul 2013"),  16 ],
+					[ Date.parse("Oct 2013"),  18 ],
+					[ Date.parse("Nov 2013"),  16 ],
+					[ Date.parse("Jan 2014"),  27 ]
 				]
 
 			}, {
 				"key": "Unemployment / Hard to Find Jobs",
 				"values": [
-					{ "label": "Nov 2012", "value": 22 },
-					{ "label": "Mar 2013", "value": 35 },
-					{ "label": "Apr 2013", "value": 26 },
-					{ "label": "Jul 2013", "value": 23 },
-					{ "label": "Oct 2013", "value": 21 },
-					{ "label": "Nov 2013", "value": 28 },
-					{ "label": "Jan 2014", "value": 25 }
-				]
+						[ Date.parse("Nov 2012"),  22 ],
+						[ Date.parse("Mar 2013"),  35 ],
+						[ Date.parse("Apr 2013"),  26 ],
+						[ Date.parse("Jul 2013"),  23 ],
+						[ Date.parse("Oct 2013"),  21 ],
+						[ Date.parse("Nov 2013"),  28 ],
+						[ Date.parse("Jan 2014"),  25 ]
+					]
 
 			}, {
 				"key": "Electricity Problems",
 				"values": [
-					{ "label": "Nov 2012", "value": 28 },
-					{ "label": "Mar 2013", "value": 14 },
-					{ "label": "Apr 2013", "value": 54 },
-					{ "label": "Jul 2013", "value": 38 },
-					{ "label": "Oct 2013", "value": 28 },
-					{ "label": "Nov 2013", "value": 23 },
-					{ "label": "Jan 2014", "value": 22 }
+					[ Date.parse("Nov 2012"),  28 ],
+					[ Date.parse("Mar 2013"),  14 ],
+					[ Date.parse("Apr 2013"),  54 ],
+					[ Date.parse("Jul 2013"),  38 ],
+					[ Date.parse("Oct 2013"),  28 ],
+					[ Date.parse("Nov 2013"),  23 ],
+					[ Date.parse("Jan 2014"),  22 ]
 				]
 
 			}, {
 				"key": "Population Increase",
 				"values": [
-					{ "label": "Nov 2012", "value": 7 },
-					{ "label": "Mar 2013", "value": 15 },
-					{ "label": "Apr 2013", "value": 12 },
-					{ "label": "Jul 2013", "value": 8 },
-					{ "label": "Oct 2013", "value": 14 },
-					{ "label": "Nov 2013", "value": 9 },
-					{ "label": "Jan 2014", "value": 14 }
+					[ Date.parse("Nov 2012"),  7 ],
+					[ Date.parse("Mar 2013"),  15 ],
+					[ Date.parse("Apr 2013"),  12 ],
+					[ Date.parse("Jul 2013"),  8 ],
+					[ Date.parse("Oct 2013"),  14 ],
+					[ Date.parse("Nov 2013"),  9 ],
+					[ Date.parse("Jan 2014"),  14 ]
 				]
 
 			}, {
 				"key": "No Dialogue",
 				"values": [
-					{ "label": "Nov 2012", "value": null },
-					{ "label": "Mar 2013", "value": null },
-					{ "label": "Apr 2013", "value": null },
-					{ "label": "Jul 2013", "value": null },
-					{ "label": "Oct 2013", "value": null },
-					{ "label": "Nov 2013", "value": null },
-					{ "label": "Jan 2014", "value": 10 }
+					[ Date.parse("Nov 2012"),  null ],
+					[ Date.parse("Mar 2013"),  null ],
+					[ Date.parse("Apr 2013"),  null ],
+					[ Date.parse("Jul 2013"),  null ],
+					[ Date.parse("Oct 2013"),  null ],
+					[ Date.parse("Nov 2013"),  null ],
+					[ Date.parse("Jan 2014"),  10 ]
 				]
 
 			}, {
 				"key": "High Price of Oil / Fuel",
 				"values": [
-					{ "label": "Nov 2012", "value": 0.2 },
-					{ "label": "Mar 2013", "value": 14 },
-					{ "label": "Apr 2013", "value": 12 },
-					{ "label": "Jul 2013", "value": 14 },
-					{ "label": "Oct 2013", "value": 10 },
-					{ "label": "Nov 2013", "value": 10 },
-					{ "label": "Jan 2014", "value": 9 }
+					[ Date.parse("Nov 2012"),  0.2 ],
+					[ Date.parse("Mar 2013"),  14 ],
+					[ Date.parse("Apr 2013"),  12 ],
+					[ Date.parse("Jul 2013"),  14 ],
+					[ Date.parse("Oct 2013"),  10 ],
+					[ Date.parse("Nov 2013"),  10 ],
+					[ Date.parse("Jan 2014"),  9 ]
 				]
 
 			}, {
 				"key": "Jan 5 2014 Election",
 				"values": [
-					{ "label": "Nov 2012", "value": null },
-					{ "label": "Mar 2013", "value": null },
-					{ "label": "Apr 2013", "value": null },
-					{ "label": "Jul 2013", "value": null },
-					{ "label": "Oct 2013", "value": null },
-					{ "label": "Nov 2013", "value": null },
-					{ "label": "Jan 2014", "value": 9 }
+					[ Date.parse("Nov 2012"),  null ],
+					[ Date.parse("Mar 2013"),  null ],
+					[ Date.parse("Apr 2013"),  null ],
+					[ Date.parse("Jul 2013"),  null ],
+					[ Date.parse("Oct 2013"),  null ],
+					[ Date.parse("Nov 2013"),  null ],
+					[ Date.parse("Jan 2014"),  9 ]
 				]
 			}
 		]
