@@ -1,79 +1,65 @@
 [
 	{
-		"key":"Bangladesh headed in the right direction",
+		"key":"Is Bangladesh Headed in the Right Direction or Wrong Direction?",
+        "date": "Apr 2014",
 		"type": "Pie",
 		"values":[
-			{ "label":"Don't know/Unsure", "value":217 },
-			{ "label":"Wrong Direction", "value":802 },
-			{ "label":"Right Direction", "value":481 }
+			{ "label":"Wrong Direction", "value":54 },
+			{ "label":"Right Direction", "value":32 },
+			{ "label":"Don't Know", "value":14 }
 		]
 
 	}, {
-		"key":"Which party you will vote for",
+		"key":"For Which Party Would You Vote if Elections Were Held Today?",
+        "date": "Apr 2014",
 		"type": "DiscretBar",
 		"values":[
-		{ "label":"BNP", "value":358 },
-		{ "label":"Not yet taken any decision", "value":146 },
-		{ "label":"AL", "value":336 },
-		{ "label":"Don't know/can't say", "value":301 },
-		{ "label":"Refused to reveal", "value":149 },
-		{ "label":"A new party", "value":127 },
-		{ "label":"JP", "value":16 },
-		{ "label":"leftist", "value":1 },
-		{ "label":"Jamat-i-Islami", "value":29 },
-		{ "label":"no vote", "value":3 },
-		{ "label":"Opportunist", "value":1 },
-		{ "label":"those who can ensure wellbing", "value":1 },
-		{ "label":"Mohajote", "value":4 },
-		{ "label":"who will want, she'll give her vote to them", "value":1 },
-		{ "label":"Please specify", "value":1 },
-		{ "label":"she'll ask to her child", "value":1 },
-		{ "label":"18 parties alliance", "value":14 },
-		{ "label":"personal matter", "value":1 },
-		{ "label":"good person", "value":1 },
-		{ "label":"not a single party", "value":1 },
-		{ "label":"good man", "value":2 },
-		{ "label":"eligible candidate", "value":1 },
-		{ "label":"Qualition government", "value":1 },
-		{ "label":"eligible person", "value":1 },
-		{ "label":"Na vote", "value":2 },
-		{ "label":"the party who will make good", "value":1 }
+		{ "label":"BNP", "value":24 },
+		{ "label":"AL", "value":22 },
+		{ "label":"JP", "value": 1 },
+		{ "label":"Jamaat e Islami", "value": 1 },
+		{ "label":"Undecided", "value":30 },
+		{ "label":"Refused To Answer", "value":10 }
 		]
 
 	}, {
-		"key":"Should there be another election before 5 years?",
-		"type": "Pie",
+		"key":"Should There Be New Elections Within the Next Five Years?",
+		"date": "Apr 2014",
+        "type": "Pie",
 		"values":[
-		{ "label":"Yes", "value":820, "series":0 },
-		{ "label":"No", "value":467, "series":0 },
-		{ "label":"Don't know/can't say", "value":213, "series":0 }
+		{ "label":"Yes", "value":55, "series":0 },
+		{ "label":"No", "value":31, "series":0 },
+		{ "label":"Don't Know", "value":14, "series":0 }
 		]
 
 	}, {
-		"key":"Will there be another election before 5 years?",
-		"type": "Pie",
+		"key":"Will There Be New Elections Within the Next Five Years?",
+		"date": "Apr 2014",
+        "type": "Pie",
 		"values":[
-		{ "label":"Don't know/can't say", "value":359 },
-		{ "label":"Yes", "value":279 },
-		{ "label":"No", "value":862 }
+		{ "label":"Yes", "value":19 },
+		{ "label":"No", "value":57 },
+		{ "label":"Don't Know", "value":24 }
 		]
 
 	}, {
-		"key":"Was Upazilla election free and fair?",
+		"key":"Were the Upazilla Elections Free & Fair?",
 		"type": "Pie",
+        "date": "Apr 2014",
 		"values":[
-		{ "label":"Free & fair", "value":588, "series":0 },
-		{ "label":"Not free & fair", "value":735, "series":0 },
-		{ "label":"Don't know/can't say", "value":177, "series":0 }
+		{ "label":"Free & Fair", "value":39, "series":0 },
+		{ "label":"Not Free & Fair", "value":49, "series":0 },
+		{ "label":"Don't Know", "value":12, "series":0 }
 		]
 
 	}, {
-		"key":"Is voters confidence over BEC increased after upazila election?",
+		"key":"Did Voter Confidence in the Bangladesh Election Commission Increase or Decrease After the Upazila Elections?",
 		"type": "Pie",
+        "date": "Apr 2014",
 		"values":[
-		{ "label":"Increase voters confidence over BEC", "value":444 },
-		{ "label":"Decrease voters confidence over BEC", "value":776 },
-		{ "label":"Don't know/can't say/not sure", "value":280 }
+		{ "label":"Increase", "value":30 },
+		{ "label":"Decrease", "value":52 },
+		{ "label":"Don't Know", "value":18 }
 		]
 	}
 ]
