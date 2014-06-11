@@ -1,518 +1,136 @@
 [
 	{
-		"key":"What is your age?",
+		"key":"Age",
+        "date": "Apr 2014",
 		"type": "DiscretBar",
 		"values":[
 		{
 			"label":"46 to 55",
-			"value":131
+			"value":8
 		},
 		{
 			"label":"26 to 35",
-			"value":541
+			"value":36
 		},
 		{
 			"label":"18 to 25",
-			"value":519
+			"value":35
 		},
 		{
 			"label":"36 to 45",
-			"value":241
+			"value":16
 		},
 		{
 			"label":"56 to 65",
-			"value":57
+			"value":4
 		},
 		{
 			"label":"66 and above",
-			"value":11
+			"value":1
 		}
 		]
 
 	}, {
-		"key":"Your Gender ?",
+		"key":"Gender",
+        "date": "Apr 2014",
 		"type": "Pie",
 		"values":[
 		{
 			"label":"Male",
-			"value":1088
+			"value":73
 		},
 		{
 			"label":"Female",
-			"value":412
+			"value":27
 		}
 		]
 
 	}, {
-		"key":"What is your religion?",
+		"key":"Religion",
+        "date": "Apr 2014",
 		"type": "Pie",
 		"values":[
 		{
 			"label":"Islam",
-			"value":1355,
-			"series":0
-		},
-		{
-			"label":"Please specify",
-			"value":1,
+			"value":90,
 			"series":0
 		},
 		{
 			"label":"Hinduism",
 			"value":106,
-			"series":0
-		},
-		{
-			"label":"Non-Believer",
-			"value":7,
-			"series":0
+			"series":7
 		},
 		{
 			"label":"Buddhism",
-			"value":21,
+			"value":2,
 			"series":0
 		},
 		{
 			"label":"Christianity",
-			"value":10,
+			"value":1,
 			"series":0
 		}
 		]
 
 	}, {
-		"key":"District/Division?",
-		"type": "DiscretBar",
-		"values":[
-		{
-			"label":"Manikganj",
-			"value":18
-		},
-		{
-			"label":"Gazipur",
-			"value":51
-		},
-		{
-			"label":"Maulvibazar",
-			"value":3
-		},
-		{
-			"label":"Natore",
-			"value":12
-		},
-		{
-			"label":"Nilphamari",
-			"value":12
-		},
-		{
-			"label":"Dhaka",
-			"value":175
-		},
-		{
-			"label":"Rajshahi",
-			"value":33
-		},
-		{
-			"label":"Comilla",
-			"value":64
-		},
-		{
-			"label":"Dinajpur",
-			"value":47
-		},
-		{
-			"label":"Nawabganj",
-			"value":6
-		},
-		{
-			"label":"Sunamganj",
-			"value":10
-		},
-		{
-			"label":"Pabna",
-			"value":23
-		},
-		{
-			"label":"chuadanga",
-			"value":1
-		},
-		{
-			"label":"Mymensingh",
-			"value":48
-		},
-		{
-			"label":"Kishoreganj",
-			"value":19
-		},
-		{
-			"label":"Feni",
-			"value":30
-		},
-		{
-			"label":"Khulna",
-			"value":31
-		},
-		{
-			"label":"Naogaon",
-			"value":27
-		},
-		{
-			"label":"Rajbari",
-			"value":15
-		},
-		{
-			"label":"Thakurgaon",
-			"value":3
-		},
-		{
-			"label":"Jhenaidah",
-			"value":12
-		},
-		{
-			"label":"Bogra",
-			"value":41
-		},
-		{
-			"label":"Bagerhat",
-			"value":12
-		},
-		{
-			"label":"Jessore",
-			"value":29
-		},
-		{
-			"label":"Tangail",
-			"value":26
-		},
-		{
-			"label":"Brahamanbaria",
-			"value":26
-		},
-		{
-			"label":"Cox's bazar",
-			"value":26
-		},
-		{
-			"label":"Faridpur",
-			"value":34
-		},
-		{
-			"label":"Narsingdi",
-			"value":17
-		},
-		{
-			"label":"Madaripur",
-			"value":14
-		},
-		{
-			"label":"Sylhet",
-			"value":34
-		},
-		{
-			"label":"Chandpur",
-			"value":24
-		},
-		{
-			"label":"Barisal",
-			"value":53
-		},
-		{
-			"label":"Chittagong",
-			"value":77
-		},
-		{
-			"label":"Jamalpur",
-			"value":19
-		},
-		{
-			"label":"Gaibandha",
-			"value":30
-		},
-		{
-			"label":"Bhola",
-			"value":11
-		},
-		{
-			"label":"Patuakhali",
-			"value":10
-		},
-		{
-			"label":"Narayanganj",
-			"value":24
-		},
-		{
-			"label":"Pirojpur",
-			"value":13
-		},
-		{
-			"label":"Shariatpur",
-			"value":9
-		},
-		{
-			"label":"Netrakona",
-			"value":16
-		},
-		{
-			"label":"Munshiganj",
-			"value":10
-		},
-		{
-			"label":"Kurigram",
-			"value":9
-		},
-		{
-			"label":"Rangpur",
-			"value":29
-		},
-		{
-			"label":"Sherpur",
-			"value":12
-		},
-		{
-			"label":"Gopalganj",
-			"value":22
-		},
-		{
-			"label":"Habiganj",
-			"value":13
-		},
-		{
-			"label":"Noakhali",
-			"value":27
-		},
-		{
-			"label":"Joypurhat",
-			"value":5
-		},
-		{
-			"label":"Narail",
-			"value":7
-		},
-		{
-			"label":"Lalmonirhat",
-			"value":7
-		},
-		{
-			"label":"Lakshmipur",
-			"value":15
-		},
-		{
-			"label":"Sirajganj",
-			"value":20
-		},
-		{
-			"label":"Meherpur",
-			"value":9
-		},
-		{
-			"label":"Kushtia",
-			"value":22
-		},
-		{
-			"label":"Barguna",
-			"value":18
-		},
-		{
-			"label":"Chuadanga",
-			"value":20
-		},
-		{
-			"label":"Jhalokati",
-			"value":5
-		},
-		{
-			"label":"Satkhira",
-			"value":18
-		},
-		{
-			"label":"Panchagarh",
-			"value":5
-		},
-		{
-			"label":"Magura",
-			"value":13
-		},
-		{
-			"label":"Bandarban",
-			"value":7
-		},
-		{
-			"label":"Rangamati",
-			"value":12
-		},
-		{
-			"label":"comilla",
-			"value":3
-		},
-		{
-			"label":"feni",
-			"value":1
-		},
-		{
-			"label":"natore",
-			"value":1
-		},
-		{
-			"label":"rangpur",
-			"value":1
-		},
-		{
-			"label":"sunamganj",
-			"value":1
-		},
-		{
-			"label":"Khagrachhari",
-			"value":3
-		}
-		]
-
-	}, {
-		"key":"Living in Urban/Rural settings?",
+		"key":"Urban/Rural",
+        "date": "Apr 2014",
 		"type": "Pie",
 		"values":[
 		{
 			"label":"Rural",
-			"value":808
+			"value":54
 		},
 		{
 			"label":"Urban",
-			"value":692
+			"value":46
 		}
 		]
 
-	}, {
-		"key":"Occupation of chief wage earner?",
-		"type": "DiscretBar",
-		"values":[
-		{
-			"label":"Skilled worker",
-			"value":586
-		},
-		{
-			"label":"Business person/Industrialist without any employee",
-			"value":205
-		},
-		{
-			"label":"Officer/Executiv-Junior",
-			"value":64
-		},
-		{
-			"label":"Business person/Industrialist with 1 to 9 employee",
-			"value":67
-		},
-		{
-			"label":"Unskilled worker",
-			"value":235
-		},
-		{
-			"label":"Shop owner",
-			"value":68
-		},
-		{
-			"label":"Business person/Industrialist with more than 10 employees",
-			"value":25
-		},
-		{
-			"label":"Petty trader",
-			"value":55
-		},
-		{
-			"label":"Clerk/Salesperson",
-			"value":54
-		},
-		{
-			"label":"Officer/Executive-Middle & Senior",
-			"value":49
-		},
-		{
-			"label":"Self-employed professionals(e.g- Doctor, engineer, lawyer)",
-			"value":54
-		},
-		{
-			"label":"Supervisory Level",
-			"value":38
-		}
-		]
-	}, {
-		"key":"Education of chief wage earner?",
+	},  {
+		"key":"Education",
 		"type": "DiscretBar",
 		"values":[
 		{
 			"label":"Illiterate",
-			"value":179,
+			"value":12,
 			"series":0
 		},
 		{
 			"label":"S.S.C/H.S.C",
-			"value":445,
+			"value":30,
 			"series":0
 		},
 		{
-			"label":"Professional Graduate or above",
-			"value":114,
+			"label":"Professional Graduate or Above",
+			"value": 8,
 			"series":0
 		},
 		{
-			"label":"General Graduate or above",
-			"value":176,
+			"label":"General Graduate or Above",
+			"value":7,
 			"series":0
 		},
 		{
-			"label":"Literate with no formal education",
-			"value":101,
+			"label":"Literate - No Formal Education",
+			"value":7,
 			"series":0
 		},
 		{
 			"label":"Class 5 to 9",
-			"value":363,
+			"value":24,
 			"series":0
 		},
 		{
-			"label":"Have some college education but not graduate",
-			"value":66,
+			"label":"Some College",
+			"value":4,
 			"series":0
 		},
 		{
 			"label":"Class 4",
-			"value":56,
+			"value":4,
 			"series":0
 		}
 		]
-	}, {
-		"key":"Identify Social Economic Class of the respondent",
-		"type": "DiscretBar",
-		"values":[
-		{
-			"label":"E2",
-			"value":191
-		},
-		{
-			"label":"B1",
-			"value":139
-		},
-		{
-			"label":"A2",
-			"value":105
-		},
-		{
-			"label":"D",
-			"value":327
-		},
-		{
-			"label":"C",
-			"value":278
-		},
-		{
-			"label":"B2",
-			"value":227
-		},
-		{
-			"label":"A1",
-			"value":101
-		},
-		{
-			"label":"E1",
-			"value":132
-		}
-		]
-	}
+	} 
 ]
