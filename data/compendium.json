@@ -60,7 +60,15 @@
 					{ "label": "Khaleda Zia", "value": 44 },
 					{ "label": "H.M. Ershad", "value": 14 }
 				]
+			}, {
+				"key": "Most qualified directing the state",
+				"values": [
+					{ "label": "Sheikh Hasina", "value": 42 },
+					{ "label": "Khaleda Zia", "value": 40 },
+					{ "label": "H.M. Ershad", "value": 18 }
+				]
 			}
+
 		]
 	}, {
 		"key": "Should There Be / Do You Think There Will Be New Elections Within the Next Five Years?",
