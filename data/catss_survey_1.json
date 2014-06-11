@@ -4,9 +4,9 @@
         "date": "Apr 2014",
 		"type": "Pie",
 		"values":[
-			{ "label":"Don't Know", "value":14 },
 			{ "label":"Wrong Direction", "value":54 },
-			{ "label":"Right Direction", "value":32 }
+			{ "label":"Right Direction", "value":32 },
+			{ "label":"Don't Know", "value":14 }
 		]
 
 	}, {
@@ -15,12 +15,11 @@
 		"type": "DiscretBar",
 		"values":[
 		{ "label":"BNP", "value":24 },
-		{ "label":"Undecided", "value":30 },
 		{ "label":"AL", "value":22 },
-		{ "label":"Refused To Answer", "value":10 },
-		{ "label":"A New Party", "value": 1 },
 		{ "label":"JP", "value": 1 },
-		{ "label":"Jamaat e Islami", "value": 1 }
+		{ "label":"Jamaat e Islami", "value": 1 },
+		{ "label":"Undecided", "value":30 },
+		{ "label":"Refused To Answer", "value":10 }
 		]
 
 	}, {
@@ -38,9 +37,9 @@
 		"date": "Apr 2014",
         "type": "Pie",
 		"values":[
-		{ "label":"Don't Know", "value":24 },
 		{ "label":"Yes", "value":19 },
-		{ "label":"No", "value":57 }
+		{ "label":"No", "value":57 },
+		{ "label":"Don't Know", "value":24 }
 		]
 
 	}, {
