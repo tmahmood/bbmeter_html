@@ -1,238 +1,7 @@
 [
 	{
-		"type": "DiscretBar",
-        "date": "Jan 2014",
-		"colors": ["#ddd", "#eee", "lightred", "#bbb"],
-		"key": "The New Government Which Will Be Formed as a Result of this Election Will be Highly Credible, Credible, Less Credible or Not Credible?",
-		"values": [
-					{
-						"label": "Highly Credible",
-						"value": 25
-					},
-					{
-						"label": "Credible",
-						"value": 18
-					},
-					{
-						"label": "Less Credible",
-						"value": 17
-					},
-					{
-						"label": "Not Credible",
-						"value": 40
-					}
-			]
-
-	}, {
-		"key": "Should the Next Government Be in Power for a Full Five Year Term or Less Than Five Years (Abbreviated)?",
-        "date": "Jan 2014",
-		"type": "DiscretBar",
-		"values": [
-				{
-					"label": "Full Five Year",
-					"value": 40
-				},
-				{	"label": "Abbreviated",
-					"value": 53
-				},
-				{
-					"label": "Don’t Know",
-					"value": 7
-				}
-			]
-
-	}, {
-		"key": "Perception of Leaders",
-		"type": "GroupedMultiBar",
-        "date": "Mar 2013",
-		"values": [
-			{
-				"key" : "Leader With Whom You are Most Satisfied",
-				"values": [
-						{ "label" : "Sheikh Hasina", "value" : 42 },
-						{ "label" : "Khaleda Zia", "value" : 43 },
-						{ "label" : "H.M. Ershad", "value" : 15 }
-					]
-			}, {
-				"key": "Most Reliable in Fulfilling Commitments",
-				"values": [
-					{ "label": "Sheikh Hasina", "value": 41 },
-					{ "label": "Khaleda Zia", "value": 44 },
-					{ "label": "H.M. Ershad", "value": 14 }
-				]
-			}, {
-				"key": "Most Qualified Directing the State",
-				"values": [
-					{ "label": "Sheikh Hasina", "value": 42 },
-					{ "label": "Khaleda Zia", "value": 40 },
-					{ "label": "H.M. Ershad", "value": 18 }
-				]
-			}
-
-		]
-	}, {
-		"key": "Should There Be / Will There Be New Elections Within the Next Five Years?",
-        "date": "Jan 2014",
-		"type": "GroupedMultiBar",
-		"values" : [
-					{
-						"key": "Should There Be New Elections Before Five Years?",
-					"values": [
-							{ "label": "Yes", "value": 59 },
-							{ "label": "No", "value": 35 },
-							{ "label": "Don’t Know", "value": 6 }
-						]
-
-				}, {
-					"key": "Do You Think There Will Be New Elections Before Five Years?",
-					"type": "Pie",
-					"values": [
-							{ "label": "Yes", "value": 58 },
-							{ "label": "No", "value": 34 },
-							{ "label": "Don’t Know", "value": 9 }
-						]
-
-				}
-			]
-	} , {
-
-		"key": "What are the Three Main Problems Faced by Bangladesh?",
-        "date": "Nov 2012 - Jan 2014",
-		"type": "GroupedMultiBar",
-		"values" : [ {
-				"key": "Political Instability",
-				"values": [
-					{ "label": "Nov 2012", "value": 5 },
-					{ "label": "Mar 2013", "value": 7 },
-					{ "label": "Apr 2013", "value": 51 },
-					{ "label": "Jul 2013", "value": 45 },
-					{ "label": "Oct 2013", "value": 56 },
-					{ "label": "Nov 2013", "value": 66 },
-					{ "label": "Jan 2014", "value": 72 }
-				]
-			}, {
-				"key": "Corruption",
-				"values": [
-					{ "label": "Nov 2012", "value": 10 },
-					{ "label": "Mar 2013", "value": 12 },
-					{ "label": "Apr 2013", "value": 22 },
-					{ "label": "Jul 2013", "value": 27 },
-					{ "label": "Oct 2013", "value": 58 },
-					{ "label": "Nov 2013", "value": 34 },
-					{ "label": "Jan 2014", "value": 43 }
-				]
-			}, {
-				"key": "Underdeveloped Roads",
-				"values": [
-					{ "label": "Nov 2012", "value": 25 },
-					{ "label": "Mar 2013", "value": 8 },
-					{ "label": "Apr 2013", "value": 41 },
-					{ "label": "Jul 2013", "value": 36 },
-					{ "label": "Oct 2013", "value": 20 },
-					{ "label": "Nov 2013", "value": 30 },
-					{ "label": "Jan 2014", "value": 32 }
-				]
-
-			}, {
-				"key": "High Prices of Commodities",
-				"values": [
-					{ "label": "Nov 2012", "value": 39 },
-					{ "label": "Mar 2013", "value": 46 },
-					{ "label": "Apr 2013", "value": 47 },
-					{ "label": "Jul 2013", "value": 48 },
-					{ "label": "Oct 2013", "value": 47 },
-					{ "label": "Nov 2013", "value": 53 },
-					{ "label": "Jan 2014", "value": 31 }
-				]
-
-			}, {
-				"key": "Economic Crisis",
-				"values": [
-					{ "label": "Nov 2012", "value": 6 },
-					{ "label": "Mar 2013", "value": 11 },
-					{ "label": "Apr 2013", "value": 17 },
-					{ "label": "Jul 2013", "value": 16 },
-					{ "label": "Oct 2013", "value": 18 },
-					{ "label": "Nov 2013", "value": 16 },
-					{ "label": "Jan 2014", "value": 27 }
-				]
-
-			}, {
-				"key": "Unemployment / Hard to Find Jobs",
-				"values": [
-					{ "label": "Nov 2012", "value": 22 },
-					{ "label": "Mar 2013", "value": 35 },
-					{ "label": "Apr 2013", "value": 26 },
-					{ "label": "Jul 2013", "value": 23 },
-					{ "label": "Oct 2013", "value": 21 },
-					{ "label": "Nov 2013", "value": 28 },
-					{ "label": "Jan 2014", "value": 25 }
-				]
-
-			}, {
-				"key": "Electricity Problems",
-				"values": [
-					{ "label": "Nov 2012", "value": 28 },
-					{ "label": "Mar 2013", "value": 14 },
-					{ "label": "Apr 2013", "value": 54 },
-					{ "label": "Jul 2013", "value": 38 },
-					{ "label": "Oct 2013", "value": 28 },
-					{ "label": "Nov 2013", "value": 23 },
-					{ "label": "Jan 2014", "value": 22 }
-				]
-
-			}, {
-				"key": "Population Increase",
-				"values": [
-					{ "label": "Nov 2012", "value": 7 },
-					{ "label": "Mar 2013", "value": 15 },
-					{ "label": "Apr 2013", "value": 12 },
-					{ "label": "Jul 2013", "value": 8 },
-					{ "label": "Oct 2013", "value": 14 },
-					{ "label": "Nov 2013", "value": 9 },
-					{ "label": "Jan 2014", "value": 14 }
-				]
-
-			}, {
-				"key": "No Dialogue",
-				"values": [
-					{ "label": "Nov 2012", "value": null },
-					{ "label": "Mar 2013", "value": null },
-					{ "label": "Apr 2013", "value": null },
-					{ "label": "Jul 2013", "value": null },
-					{ "label": "Oct 2013", "value": null },
-					{ "label": "Nov 2013", "value": null },
-					{ "label": "Jan 2014", "value": 10 }
-				]
-
-			}, {
-				"key": "High Price of Oil / Fuel",
-				"values": [
-					{ "label": "Nov 2012", "value": 0.2 },
-					{ "label": "Mar 2013", "value": 14 },
-					{ "label": "Apr 2013", "value": 12 },
-					{ "label": "Jul 2013", "value": 14 },
-					{ "label": "Oct 2013", "value": 10 },
-					{ "label": "Nov 2013", "value": 10 },
-					{ "label": "Jan 2014", "value": 9 }
-				]
-
-			}, {
-				"key": "Jan 5 2014 Election",
-				"values": [
-					{ "label": "Nov 2012", "value": null },
-					{ "label": "Mar 2013", "value": null },
-					{ "label": "Apr 2013", "value": null },
-					{ "label": "Jul 2013", "value": null },
-					{ "label": "Oct 2013", "value": null },
-					{ "label": "Nov 2013", "value": null },
-					{ "label": "Jan 2014", "value": 9 }
-				]
-			}
-        ]
-    }, {
-			"key": "Overall, Do You Think Things in Bangladesh are Headed in the Right Direction or the Wrong Direction?",
-			"date": "Nov 2012 - Jan 2014",
+			"key": "Do You Think Things in Bangladesh are Headed in the Right Direction or the Wrong Direction?",
+			"date": "Nov 2012 - Apr 2014",
 			"type": "SimpleLine1" ,
 			"values" : [ {
 			"key": "Wrong Direction",
@@ -244,7 +13,8 @@
 				[1375281440000,58],
 				[1383230240000,54],
 				[1385822240000,62],
-				[1391179040000,69]
+				[1391179040000,69],
+				[1398851067000,54]
 				]
 			}, {
 			"key": "Right Direction",
@@ -256,7 +26,8 @@
 				[1375281440000,37],
 				[1383230240000,46],
 				[1385822240000,32],
-				[1391179040000,29]
+				[1391179040000,29],
+				[1398851067000,32]
 				]
 			}, {
 			"key": "Don't Know",
@@ -268,7 +39,8 @@
 				[1375281440000,5],
 				[1383230240000,0],
 				[1385822240000,6],
-				[1391179040000,2]
+				[1391179040000,2],
+				[1398851067000,14]
 				]
 			}
 		]
@@ -500,9 +272,147 @@
                 ]
             }
         ]
-    }, {
+    }, 
+    {
+
+		"key": "What are the Three Main Problems Faced by Bangladesh?",
+        "date": "Nov 2012 - Jan 2014",
+		"type": "GroupedMultiBar",
+		"values" : [ {
+				"key": "Political Instability",
+				"values": [
+					{ "label": "Nov 2012", "value": 5 },
+					{ "label": "Mar 2013", "value": 7 },
+					{ "label": "Apr 2013", "value": 51 },
+					{ "label": "Jul 2013", "value": 45 },
+					{ "label": "Oct 2013", "value": 56 },
+					{ "label": "Nov 2013", "value": 66 },
+					{ "label": "Jan 2014", "value": 72 }
+				]
+			}, {
+				"key": "Corruption",
+				"values": [
+					{ "label": "Nov 2012", "value": 10 },
+					{ "label": "Mar 2013", "value": 12 },
+					{ "label": "Apr 2013", "value": 22 },
+					{ "label": "Jul 2013", "value": 27 },
+					{ "label": "Oct 2013", "value": 58 },
+					{ "label": "Nov 2013", "value": 34 },
+					{ "label": "Jan 2014", "value": 43 }
+				]
+			}, {
+				"key": "Underdeveloped Roads",
+				"values": [
+					{ "label": "Nov 2012", "value": 25 },
+					{ "label": "Mar 2013", "value": 8 },
+					{ "label": "Apr 2013", "value": 41 },
+					{ "label": "Jul 2013", "value": 36 },
+					{ "label": "Oct 2013", "value": 20 },
+					{ "label": "Nov 2013", "value": 30 },
+					{ "label": "Jan 2014", "value": 32 }
+				]
+
+			}, {
+				"key": "High Prices of Commodities",
+				"values": [
+					{ "label": "Nov 2012", "value": 39 },
+					{ "label": "Mar 2013", "value": 46 },
+					{ "label": "Apr 2013", "value": 47 },
+					{ "label": "Jul 2013", "value": 48 },
+					{ "label": "Oct 2013", "value": 47 },
+					{ "label": "Nov 2013", "value": 53 },
+					{ "label": "Jan 2014", "value": 31 }
+				]
+
+			}, {
+				"key": "Economic Crisis",
+				"values": [
+					{ "label": "Nov 2012", "value": 6 },
+					{ "label": "Mar 2013", "value": 11 },
+					{ "label": "Apr 2013", "value": 17 },
+					{ "label": "Jul 2013", "value": 16 },
+					{ "label": "Oct 2013", "value": 18 },
+					{ "label": "Nov 2013", "value": 16 },
+					{ "label": "Jan 2014", "value": 27 }
+				]
+
+			}, {
+				"key": "Unemployment / Hard to Find Jobs",
+				"values": [
+					{ "label": "Nov 2012", "value": 22 },
+					{ "label": "Mar 2013", "value": 35 },
+					{ "label": "Apr 2013", "value": 26 },
+					{ "label": "Jul 2013", "value": 23 },
+					{ "label": "Oct 2013", "value": 21 },
+					{ "label": "Nov 2013", "value": 28 },
+					{ "label": "Jan 2014", "value": 25 }
+				]
+
+			}, {
+				"key": "Electricity Problems",
+				"values": [
+					{ "label": "Nov 2012", "value": 28 },
+					{ "label": "Mar 2013", "value": 14 },
+					{ "label": "Apr 2013", "value": 54 },
+					{ "label": "Jul 2013", "value": 38 },
+					{ "label": "Oct 2013", "value": 28 },
+					{ "label": "Nov 2013", "value": 23 },
+					{ "label": "Jan 2014", "value": 22 }
+				]
+
+			}, {
+				"key": "Population Increase",
+				"values": [
+					{ "label": "Nov 2012", "value": 7 },
+					{ "label": "Mar 2013", "value": 15 },
+					{ "label": "Apr 2013", "value": 12 },
+					{ "label": "Jul 2013", "value": 8 },
+					{ "label": "Oct 2013", "value": 14 },
+					{ "label": "Nov 2013", "value": 9 },
+					{ "label": "Jan 2014", "value": 14 }
+				]
+
+			}, {
+				"key": "No Dialogue",
+				"values": [
+					{ "label": "Nov 2012", "value": null },
+					{ "label": "Mar 2013", "value": null },
+					{ "label": "Apr 2013", "value": null },
+					{ "label": "Jul 2013", "value": null },
+					{ "label": "Oct 2013", "value": null },
+					{ "label": "Nov 2013", "value": null },
+					{ "label": "Jan 2014", "value": 10 }
+				]
+
+			}, {
+				"key": "High Price of Oil / Fuel",
+				"values": [
+					{ "label": "Nov 2012", "value": 0.2 },
+					{ "label": "Mar 2013", "value": 14 },
+					{ "label": "Apr 2013", "value": 12 },
+					{ "label": "Jul 2013", "value": 14 },
+					{ "label": "Oct 2013", "value": 10 },
+					{ "label": "Nov 2013", "value": 10 },
+					{ "label": "Jan 2014", "value": 9 }
+				]
+
+			}, {
+				"key": "Jan 5 2014 Election",
+				"values": [
+					{ "label": "Nov 2012", "value": null },
+					{ "label": "Mar 2013", "value": null },
+					{ "label": "Apr 2013", "value": null },
+					{ "label": "Jul 2013", "value": null },
+					{ "label": "Oct 2013", "value": null },
+					{ "label": "Nov 2013", "value": null },
+					{ "label": "Jan 2014", "value": 9 }
+				]
+			}
+        ]
+    },
+    {
 		"key": "For Which Party Would You Vote If Elections Were Held Today?",
-		"date": "Jun 2012 - Jan 2014",
+		"date": "Jun 2012 - Apr 2014",
 		"type": "SimpleLine2" ,
 		"values" : [
 			{
@@ -516,7 +426,8 @@
 				[1375228800000,1],
 				[1383264000000,3],
 				[1385769600000,2],
-				[1391126400000,3]
+				[1391126400000,3],
+				[1398851067000,1]
 				]
 			},{
 			"key": "Jatiya Party",
@@ -529,7 +440,8 @@
 				[1375228800000,3],
 				[1383264000000,5],
 				[1385769600000,3],
-				[1391126400000,3]
+				[1391126400000,3],
+				[1398851067000,1]
 				]
 			},{
 			"key": "BNP",
@@ -542,7 +454,8 @@
 				[1375228800000,43],
 				[1383264000000,38],
 				[1385769600000,36],
-				[1391126400000,37]
+				[1391126400000,37],
+				[1398851067000,24]
 				]
 			},{
 			"key": "AL",
@@ -555,7 +468,8 @@
 				[1375228800000,32],
 				[1383264000000,35],
 				[1385769600000,33],
-				[1391126400000,41]
+				[1391126400000,41],
+				[1398851067000,22]
 				]
 			},{
 			"key": "Undecided",
@@ -568,9 +482,111 @@
 				[1375228800000,19],
 				[1383264000000,13],
 				[1385769600000,20],
-				[1391126400000,13]
+				[1391126400000,13],
+				[1398851067000,30]
 				]
 			}
 		]
+	},
+	{
+		"key": "Perception of Leaders",
+		"type": "GroupedMultiBar",
+		"colors": ["#008000", "#EE0000", "#A020F0"],
+        "date": "Mar 2013",
+		"values": [
+			{
+				"key" : "Leader With Whom You are Most Satisfied",
+				"values": [
+						{ "label" : "Sheikh Hasina", "value" : 42 },
+						{ "label" : "Khaleda Zia", "value" : 43 },
+						{ "label" : "H.M. Ershad", "value" : 15 }
+					]
+			}, {
+				"key": "Most Reliable in Fulfilling Commitments",
+				"values": [
+					{ "label": "Sheikh Hasina", "value": 41 },
+					{ "label": "Khaleda Zia", "value": 44 },
+					{ "label": "H.M. Ershad", "value": 14 }
+				]
+			}, {
+				"key": "Most Qualified Directing the State",
+				"values": [
+					{ "label": "Sheikh Hasina", "value": 42 },
+					{ "label": "Khaleda Zia", "value": 40 },
+					{ "label": "H.M. Ershad", "value": 18 }
+				]
+			}
+
+		]
+	},
+		{
+		"type": "DiscretBar",
+        "date": "Jan 2014",
+		"colors": ["#0000EE", "#AAAAFF", "#EE6363", "#EE0000"],
+		"key": "The New Government Which Will Be Formed as a Result of this Election Will be Highly Credible, Credible, Less Credible or Not Credible?",
+		"values": [
+					{
+						"label": "Highly Credible",
+						"value": 25
+					},
+					{
+						"label": "Credible",
+						"value": 18
+					},
+					{
+						"label": "Less Credible",
+						"value": 17
+					},
+					{
+						"label": "Not Credible",
+						"value": 40
+					}
+			]
+
+	}, {
+		"key": "Should the Next Government Be in Power for a Full Five Year Term or Less Than Five Years (Abbreviated)?",
+        "date": "Jan 2014",
+		"type": "DiscretBar",
+		"colors": ["#0000EE", "#EE0000", "#A020F0"],
+		"values": [
+				{
+					"label": "Full Five Year",
+					"value": 40
+				},
+				{	"label": "Abbreviated",
+					"value": 53
+				},
+				{
+					"label": "Don’t Know",
+					"value": 7
+				}
+			]
+
+	}, 
+	{
+		"key": "Should There Be / Will There Be New Elections Within the Next Five Years?",
+        "date": "Jan 2014",
+		"type": "GroupedMultiBar",
+		"colors": ["#0000EE", "#EE0000", "#A020F0"],
+		"values" : [
+					{
+						"key": "Should There Be New Elections Before Five Years?",
+					"values": [
+							{ "label": "Yes", "value": 59 },
+							{ "label": "No", "value": 35 },
+							{ "label": "Don’t Know", "value": 6 }
+						]
+
+				}, {
+					"key": "Do You Think There Will Be New Elections Before Five Years?",
+					"type": "Pie",
+					"values": [
+							{ "label": "Yes", "value": 58 },
+							{ "label": "No", "value": 34 },
+							{ "label": "Don’t Know", "value": 9 }
+						]
+
+				}
+			]
 	}
 ]
