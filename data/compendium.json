@@ -2,28 +2,29 @@
 	{
 		"type": "DiscretBar",
         "date": "Jan 2014",
+		"colors": ["#ddd", "#eee", "lightred", "#bbb"],
 		"key": "The New Government Which Will Be Formed as a Result of this Election Will be Highly Credible, Credible, Less Credible or Not Credible?",
 		"values": [
 					{
-						"label": "Not Credible",
-						"value": 40
-					},
-					{
-						"label": "Less Credible",
-						"value": 17
+						"label": "Highly Credible",
+						"value": 25
 					},
 					{
 						"label": "Credible",
 						"value": 18
 					},
 					{
-						"label": "Highly Credible",
-						"value": 25
-					}					
+						"label": "Less Credible",
+						"value": 17
+					},
+					{
+						"label": "Not Credible",
+						"value": 40
+					}
 			]
 
 	}, {
-		"key": "Should the Next Government Be in Power for a Full Term in the Next Five Years or Should it be Less Than 5 Years?",
+		"key": "Should the Next Government Be in Power for a Full Five Year Term or Less Than Five Years (Abbreviated)?",
         "date": "Jan 2014",
 		"type": "DiscretBar",
 		"values": [
@@ -34,7 +35,7 @@
 				{	"label": "Abbreviated",
 					"value": 53
 				},
-				{	
+				{
 					"label": "Don’t Know",
 					"value": 7
 				}
