@@ -7,15 +7,15 @@
         "values": [
             {
                 "label": "Wrong Direction",
-                "value": 54
+                "value": 49
             },
             {
                 "label": "Right Direction",
-                "value": 32
+                "value": 33
             },
             {
                 "label": "Don't Know",
-                "value": 14
+                "value": 18
             }
         ]
     },
@@ -28,17 +28,18 @@
             "#008000",
             "#A020F0",
             "#4EA2DE",
+			"#9C993A",
             "#FFE600",
             "#696969"
         ],
         "values": [
             {
                 "label": "BNP",
-                "value": 24
+                "value": 20
             },
             {
                 "label": "AL",
-                "value": 22
+                "value": 23
             },
             {
                 "label": "JP",
@@ -46,16 +47,20 @@
             },
             {
                 "label": "Jamaat e Islami",
-                "value": 1
+                "value": 2
             },
             {
                 "label": "Undecided",
-                "value": 30
+                "value": 10
             },
             {
                 "label": "Refused To Answer",
-                "value": 10
-            }
+                "value": 9.9
+            },
+			{
+				"label": "Others",
+				"value": 22.81
+			}
         ]
     },
     {
@@ -70,17 +75,17 @@
         "values": [
             {
                 "label": "Yes",
-                "value": 55,
+                "value": 49,
                 "series": 0
             },
             {
                 "label": "No",
-                "value": 31,
+                "value": 33,
                 "series": 0
             },
             {
                 "label": "Don't Know",
-                "value": 14,
+                "value": 18,
                 "series": 0
             }
         ]
@@ -97,11 +102,11 @@
         "values": [
             {
                 "label": "Yes",
-                "value": 19
+                "value": 15
             },
             {
                 "label": "No",
-                "value": 57
+                "value": 61
             },
             {
                 "label": "Don't Know",
@@ -121,17 +126,17 @@
         "values": [
             {
                 "label": "Free & Fair",
-                "value": 39,
+                "value": 43,
                 "series": 0
             },
             {
                 "label": "Not Free & Fair",
-                "value": 49,
+                "value": 43,
                 "series": 0
             },
             {
                 "label": "Don't Know",
-                "value": 12,
+                "value": 13,
                 "series": 0
             }
         ]
@@ -148,15 +153,15 @@
         "values": [
             {
                 "label": "Increase",
-                "value": 30
+                "value": 33
             },
             {
                 "label": "Decrease",
-                "value": 52
+                "value": 45
             },
             {
                 "label": "Don't Know",
-                "value": 18
+                "value": 22
             }
         ]
     }
