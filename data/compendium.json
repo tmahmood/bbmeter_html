@@ -1,8 +1,10 @@
+
 [
 	{
 			"key": "Do You Think Things in Bangladesh are Headed in the Right Direction or the Wrong Direction?",
 			"date": "Nov 2012 - May 2014",
-			"type": "SimpleLine1" ,
+			"type": "SimpleLine",
+			"tickvalues": [1354286240000,1364740640000,1367332640000,1375281440000,1383230240000,1385822240000,1391179040000, 1399053600000],
 			"values" : [ {
 				"key": "Wrong Direction",
 				"color": "#d62728",
@@ -413,7 +415,8 @@
     {
 		"key": "For Which Party Would You Vote If Elections Were Held Today?",
 		"date": "Jun 2012 - Apr 2014",
-		"type": "SimpleLine2" ,
+		"type": "SimpleLine" ,
+		"tickvalues": [1354286240000,1364740640000,1367332640000,1375281440000,1383230240000,1385822240000,1391179040000, 1399053600000],
 		"values" : [
 			{
 			"key": "Jamaat e Islami",
@@ -590,3 +593,4 @@
 			]
 	}
 ]
+
