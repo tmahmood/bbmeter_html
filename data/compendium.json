@@ -1,7 +1,7 @@
-
 [
 	{
 			"key": "Do You Think Things in Bangladesh are Headed in the Right Direction or the Wrong Direction?",
+			"description": "This graph represents public opinion of the direction the country is heading",
 			"date": "Nov 2012 - May 2014",
 			"type": "SimpleLine",
 			"tickvalues": [1354286240000,1364740640000,1367332640000,1375281440000,1383230240000,1385822240000,1391179040000, 1399053600000],
