@@ -1,0 +1,178 @@
+[
+	{
+		"key": "Top 5 issues for last 2 week, based on statement",
+		"description": "Top 5 issues on the media for last 2 weeks, based on statements",
+		"date": "June 2014",
+		"type": "GroupedMultiBar",
+		"colors": ["#0000EE", "#AAAAFF", "#EE6363", "#EE0000", "#550033"],
+		"values": [
+			{
+				"key": "Awamileague",
+				"values": [
+					{ "label": "Highly Positive", "value": 0 },
+					{ "label": "Positive", "value": 6 },
+					{ "label": "Neutral", "value": 6 },
+					{ "label": "Negative", "value": 60 },
+					{ "label": "Highly Negative", "value": 3}
+				]
+			},
+			{
+				"key": "BNP",
+				"values": [
+					{ "label": "Highly Positive", "value":0	},
+					{ "label": "Positive", "value":3	},
+					{ "label": "Neutral", "value":2	},
+					{ "label": "Negative", "value":31	},
+					{ "label": "Highly Negative", "value":1}
+				]
+			},
+			{
+				"key": "Sheikh Hasina",
+				"values": [
+					{ "label": "Highly Positive", "value":0	},
+					{ "label": "Positive", "value":11	},
+					{ "label": "Neutral", "value":5	},
+					{ "label": "Negative", "value":5	},
+					{ "label": "Highly Negative", "value":5}
+				]
+			},
+			{
+				"key": "Khaleda Zia",
+				"values": [
+					{ "label": "Highly Positive", "value":0	},
+					{ "label": "Positive", "value": 7 },
+					{ "label": "Neutral", "value": 3 },
+					{ "label": "Negative", "value": 23 },
+					{ "label": "Highly Negative", "value": 4}
+				]
+			},
+			{
+				"key": "Mirza Fakhrul Islam Alamgir",
+				"values": [
+					{ "label": "Highly Positive", "value":0	},
+					{ "label": "Positive", "value": 0 },
+					{ "label": "Neutral", "value": 0 },
+					{ "label": "Negative", "value": 3 },
+					{ "label": "Highly Negative", "value": 0 }
+				]
+			}
+		 ]
+	},
+	{
+		"key": "Top 5 issues for last 1 month, based on statement",
+		"description": "Top 5 issues on the media for last 1 month, based on statements",
+		"date": "June 2014",
+		"type": "GroupedMultiBar",
+		"colors": ["#0000EE", "#AAAAFF", "#EE6363", "#EE0000", "#550033"],
+		"values": [
+			{
+				"key": "Awamileague",
+				"values": [
+					{ "label": "Highly Positive", "value": 5 },
+					{ "label": "Positive", "value": 27 },
+					{ "label": "Neutral", "value": 36 },
+					{ "label": "Negative", "value": 261 },
+					{ "label": "Highly Negative", "value": 20 }
+				]
+			},
+			{
+				"key": "BNP",
+				"values": [
+					{ "label": "Highly Positive", "value": 0 },
+					{ "label": "Positive", "value": 15 },
+					{ "label": "Neutral", "value": 19 },
+					{ "label": "Negative", "value": 130	},
+					{ "label": "Highly Negative", "value": 4 }
+				]
+			},
+			{
+				"key": "Sheikh Hasina",
+				"values": [
+					{ "label": "Highly Positive", "value": 7 },
+					{ "label": "Positive", "value": 40 },
+					{ "label": "Neutral", "value": 29 },
+					{ "label": "Negative", "value": 74 },
+					{ "label": "Highly Negative", "value": 18 }
+				]
+			},
+			{
+				"key": "Khaleda Zia",
+				"values": [
+					{ "label": "Highly Positive", "value": 0 },
+					{ "label": "Positive", "value": 28 },
+					{ "label": "Neutral", "value": 18 },
+					{ "label": "Negative", "value": 65 },
+					{ "label": "Highly Negative", "value": 6 }
+				]
+			},
+			{
+				"key": "Mirza Fakhrul Islam Alamgir",
+				"values": [
+					{ "label": "Highly Positive", "value":0	},
+					{ "label": "Positive", "value": 0 },
+					{ "label": "Neutral", "value": 2 },
+					{ "label": "Negative", "value": 14 },
+					{ "label": "Highly Negative", "value": 1 }
+				]
+			}
+		 ]
+	},
+	{
+		"key": "Top 5 discussed issues - 2 weeks",
+		"description": "Top 5 issues on the media for last 2 weeks, based on mentions",
+		"date": "June 2014",
+		"type": "DiscretBar",
+		"colors": ["#0000EE", "#AAAAFF", "#EE6363", "#EE0000", "#550033"],
+		"values": [
+					{
+						"label": "Awami League",
+						"value": 192
+					},
+					{
+						"label": "BNP",
+						"value": 132
+					},
+					{
+						"label": "Sheikh Hasina",
+						"value": 110
+					},
+					{
+						"label": "Khaleda Zia",
+						"value": 84
+					},
+					{
+						"label": "Mirza Fakhrul Islam Alamgir",
+						"value": 49
+					}
+			]
+	},
+	{
+		"key": "Top 5 discussed issues - last 1 month",
+		"description": "Top 5 issues on the media for last 1 month, based on mentions",
+		"date": "June 2014",
+		"type": "DiscretBar",
+		"colors": ["#0000EE", "#AAAAFF", "#EE6363", "#EE0000", "#550033"],
+		"values": [
+					{
+						"label": "Awami League",
+						"value": 953
+					},
+					{
+						"label": "BNP",
+						"value": 576
+					},
+					{
+						"label": "Sheikh Hasina",
+						"value": 570
+					},
+					{
+						"label": "Khaleda Zia",
+						"value": 282
+					},
+					{
+						"label": "Mirza Fakhrul Islam Alamgir",
+						"value": 215
+					}
+			]
+	}
+]
