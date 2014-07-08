@@ -23,6 +23,8 @@ $(function(){
 		} else {
 			visual.loadGraphByHash(hash);
 		}
+	} else {
+		$('._txt_').first().trigger('click');
 	}
 
 

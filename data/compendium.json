@@ -4,6 +4,7 @@
 			"description": "This graph represents public opinion of the direction the country is heading",
 			"date": "Nov 2012 - May 2014",
 			"type": "SimpleLine",
+			"Group":"Direction",
 			"tickvalues": [1354286240000,1364740640000,1367332640000,1375281440000,1383230240000,1385822240000,1391179040000, 1399053600000],
 			"values" : [ {
 				"key": "Wrong Direction",
@@ -50,6 +51,7 @@
 			"key": "Why Do You Think Things are Headed in the Right Direction?",
 			"date": "Apr 2013 - Jan 2014",
 			"type": "GroupedMultiBar",
+			"Group":"Direction",
 			"values": [ {
 			"key": "Education Improved",
 			"values": [
@@ -164,6 +166,7 @@
                 "key": "Why Do You Think Things are Headed in the Wrong Direction?",
                 "date": "Apr 2013 - Jan 2014",
                 "type": "GroupedMultiBar",
+				"Group":"Direction",
                 "values": [{
                 "key": "Political Conflicts",
                 "values": [
