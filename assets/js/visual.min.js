@@ -1,8 +1,6 @@
 function Visual(opts) {
 	this.opts = opts == null ?  opts : {};
 	this.visualizer = new Visualizer(null, '#displayopts', ',').onPageLoad();
-
-
 }
 
 var visual = new Visual();
@@ -35,6 +33,7 @@ Visual.prototype.onMenuItemClick = function() {
 
 
 	$(document).on('click', '._nv_graphs', function(ev){
+
 		ev.preventDefault();
 		if (me.visualizer.loading) {
 			return;
@@ -48,6 +47,7 @@ Visual.prototype.onMenuItemClick = function() {
 		me.loadGraphByHash(hash);
 		$('._nv_graphs').removeClass('active');
 		$(this).addClass('active');
+
 	});
 
 	$(document).on('click', '._txt_', function(ev){
