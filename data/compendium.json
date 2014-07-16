@@ -4,7 +4,7 @@
 			"description": "This graph represents public opinion of the direction the country is heading",
 			"date": "Nov 2012 - May 2014",
 			"type": "SimpleLine",
-			"Group":"Direction",
+			"group":"Direction",
 			"tickvalues": [1354286240000,1364740640000,1367332640000,1375281440000,1383230240000,1385822240000,1391179040000, 1399053600000],
 			"values" : [ {
 				"key": "Wrong Direction",
@@ -51,7 +51,7 @@
 			"key": "Why Do You Think Things are Headed in the Right Direction?",
 			"date": "Apr 2013 - Jan 2014",
 			"type": "GroupedMultiBar",
-			"Group":"Direction",
+			"group":"Direction",
 			"values": [ {
 			"key": "Education Improved",
 			"values": [
@@ -163,11 +163,11 @@
 			}
 		]
 	}, {
-                "key": "Why Do You Think Things are Headed in the Wrong Direction?",
-                "date": "Apr 2013 - Jan 2014",
-                "type": "GroupedMultiBar",
-				"Group":"Direction",
-                "values": [{
+			"key": "Why Do You Think Things are Headed in the Wrong Direction?",
+			"date": "Apr 2013 - Jan 2014",
+			"type": "GroupedMultiBar",
+			"group":"Direction",
+			"values": [{
                 "key": "Political Conflicts",
                 "values": [
                     {"label": "Apr 2013","value": 70},
@@ -277,12 +277,12 @@
                 ]
             }
         ]
-    },
-    {
+    }, {
 
 		"key": "What are the Three Main Problems Faced by Bangladesh?",
         "date": "Nov 2012 - Jan 2014",
 		"type": "GroupedMultiBar",
+		"Group": "Problems",
 		"values" : [ {
 				"key": "Political Instability",
 				"values": [
@@ -414,11 +414,11 @@
 				]
 			}
         ]
-    },
-    {
+    }, {
 		"key": "For Which Party Would You Vote If Elections Were Held Today?",
 		"date": "Jun 2012 - Apr 2014",
 		"type": "SimpleLine" ,
+		"Group": "Party",
 		"tickvalues": [1354286240000,1364740640000,1367332640000,1375281440000,1383230240000,1385822240000,1391179040000, 1399053600000],
 		"values" : [
 			{
@@ -498,6 +498,7 @@
 		"key": "Perception of Leaders",
 		"type": "GroupedMultiBar",
 		"colors": ["#008000", "#EE0000", "#A020F0"],
+		"group": "Perception of Leader",
         "date": "Mar 2013",
 		"values": [
 			{
@@ -524,10 +525,10 @@
 			}
 
 		]
-	},
-		{
+	}, {
 		"type": "DiscretBar",
         "date": "Jan 2014",
+		"group": "Credibility",
 		"colors": ["#0000EE", "#AAAAFF", "#EE6363", "#EE0000"],
 		"key": "The New Government Which Will Be Formed as a Result of this Election Will be Highly Credible, Credible, Less Credible or Not Credible?",
 		"values": [
@@ -552,6 +553,7 @@
 	}, {
 		"key": "Should the Next Government Be in Power for a Full Five Year Term or Less Than Five Years (Abbreviated)?",
         "date": "Jan 2014",
+		"group": "Credibility",
 		"type": "DiscretBar",
 		"colors": ["#0000EE", "#EE0000", "#A020F0"],
 		"values": [
@@ -573,6 +575,7 @@
 		"key": "Should There Be / Will There Be New Elections Within the Next Five Years?",
         "date": "Jan 2014",
 		"type": "GroupedMultiBar",
+		"group": "Next Election",
 		"colors": ["#0000EE", "#EE0000", "#A020F0"],
 		"values" : [
 					{
