@@ -7,7 +7,6 @@ var visual = new Visual();
 
 $(function(){
 	var me = this;
-
 	visual.onMenuItemClick();
 
 	if (document.location.hash != '') {
@@ -17,20 +16,17 @@ $(function(){
 
 		if (broken.length > 1) {
 			visual.loadTextData(hash);
-
 		} else {
 			visual.loadGraphByHash(hash);
 		}
+
 	} else {
 		$('._txt_').first().trigger('click');
 	}
-
-
 });
 
 Visual.prototype.onMenuItemClick = function() {
 	var me = this;
-
 
 	$(document).on('click', '._nv_graphs', function(ev){
 
@@ -82,7 +78,6 @@ Visual.prototype.showTextDocument = function(hash) {
 
 };
 
-
 Visual.prototype.loadContentByHash = function(chash) {
 
 	var hash = chash.split('$').pop();
@@ -114,6 +109,7 @@ Visual.prototype.loadContentByHash = function(chash) {
 		$('#textcontainer').show();
 		$('#textcontainer div h1').text(hdata['title']);
 		$('#textcontainer div p').text(hdata['content']);
+
 		if (hdata['img'] != undefined) {
 			$('#textcontainer').css({ background: 'url(assets/imgs/' + hdata['img'] + ')' });
 		}
@@ -129,6 +125,7 @@ Visual.prototype.loadContentByHash = function(chash) {
 	}
 };
 
+
 Visual.prototype.loadGraphByHash = function(hash) {
 	$('#frontend').addClass('distback');
 	$('#textcontainer').hide();
@@ -136,5 +133,7 @@ Visual.prototype.loadGraphByHash = function(hash) {
 	var s = hash.split(this.visualizer.sepchar);
 	var filename = 'data/' + s[0] + '.json';
 	this.visualizer.loadData(filename, s[1]);
+
+
 };
 
