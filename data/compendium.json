@@ -588,7 +588,6 @@
 
 				}, {
 					"key": "Do You Think There Will Be New Elections Before Five Years?",
-					"type": "Pie",
 					"values": [
 							{ "label": "Yes", "value": 58 },
 							{ "label": "No", "value": 34 },
