@@ -6,7 +6,8 @@
 	},
 	"contact": {
 		"title": "Contact",
-		"content": "Contact us somehow"
+		"content": "Contact us somehow",
+		"img": "01.jpg"
 	},
 	"frontpage" : [
 		{

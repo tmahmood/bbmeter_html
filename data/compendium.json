@@ -596,6 +596,180 @@
 
 				}
 			]
-	}
+	},
+{
+	"key": "Do you Consider to vote based on your Likes for a political party / individual candidate only ?",
+	"group": "Vote",
+	"type": "Pie",
+	"values": [
+		{
+			"label": "Taking into consideration the political party only",
+			"value": "20"
+		},
+		{
+			"label": "based  on the qualities of an individual candidate",
+			"value": "52"
+		},
+		{
+			"label": "Consider both",
+			"value": "25.7"
+		},
+		{
+			"label": "Don't know",
+			"value": "1.9"
+		}
+	]
+},{
+	"key": "How many times did you switch while voting from one parliamentary election to another ?",
+	"group": "Vote",
+	"type": "DiscretBar",
+	"values": [
+		{
+			"label": "Never vote befroe",
+			"value": "14"
+		},
+		{
+			"label": "was first time voters",
+			"value": "18"
+		},
+		{
+			"label": "Never switched",
+			"value": "39"
+		},
+		{
+			"label": "Three times or more",
+			"value": "6"
+		},
+		{
+			"label": "twice",
+			"value": "9"
+		},
+		{
+			"label": "once",
+			"value": "14"
+		}
+	]
+},{
+	"key": "Which Party you think will win in the nest parliamentary Election form your constituency?",
+	"group": "Party",
+	"type": "DiscretBar",
+	"values": [
+		{
+			"label": "BNP",
+			"value": "42"
+		},
+		{
+			"label": "Al",
+			"value": "27"
+		},
+		{
+			"label": "Refused toreveal",
+			"value": "19"
+		},
+		{
+			"label": "Don’t know",
+			"value": "7"
+		},
+		{
+			"label": "Jp",
+			"value": "2"
+		},
+		{
+			"label": "Jamaat-E-Islami",
+			"value": "1"
+		},
+		{
+			"label": "4p/18parties alliance",
+			"value": "1"
+		},
+		{
+			"label": "Others",
+			"value": "1"
+		}
+	]
+},{
+	"key": "Did you or did you not vote in the last 2008 election?",
+	"group": "Vote 2008",
+	"type": "Pie",
+	"values": [
+		{
+			"label": "No I did Not Vote",
+			"value": "18"
+		},
+		{
+			"label": "yes I did vote",
+			"value": "82"
+		}
+	]
+},{
+	"key": "Which Political Party Did you vote for in that election",
+	"group": "Vote 2008",
+	"type": "DiscretBar",
+	"values": [
+		{
+			"label": "Al",
+			"value": "60"
+		},
+		{
+			"label": "BNp",
+			"value": "28"
+		},
+		{
+			"label": "Refused to reveal",
+			"value": "2"
+		},
+		{
+			"label": "Jp",
+			"value": "2"
+		},
+		{
+			"label": "Mohajote",
+			"value": "1"
+		},
+		{
+			"label": "Islami Andolon Bangladesh",
+			"value": "0.3"
+		},
+		{
+			"label": "4P/18 parties Alliance",
+			"value": "0.3"
+		},
+		{
+			"label": "Novote",
+			"value": "0"
+		}
+	]
+},{
+	"key": "Q. Reasons not voting in 2008?",
+	"group": "Vote 2008",
+	"type": "DiscretBar",
+	"values": [
+		{
+			"label": "Others",
+			"value": "4"
+		},
+		{
+			"label": "Can not make it to ps",
+			"value": "6"
+		},
+		{
+			"label": "Was on duty",
+			"value": "4"
+		},
+		{
+			"label": "was in abroad",
+			"value": "6"
+		},
+		{
+			"label": "was on outing",
+			"value": "8"
+		},
+		{
+			"label": "I was not a voter at that time",
+			"value": "74"
+		}
+	]
+}
+
 ]
 

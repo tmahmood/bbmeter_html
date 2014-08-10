@@ -3,6 +3,7 @@
         "key": "Is Bangladesh Headed in the Right Direction or Wrong Direction?",
         "date": "Apr 2014",
         "type": "Pie",
+		"group": "Compendium",
         "colors": [ "#E25757", "#4EA2DE", "#5D478B" ],
         "values": [
             {
@@ -23,6 +24,7 @@
         "key": "For Which Party Would You Vote if Elections Were Held Today?",
         "date": "Apr 2014",
         "type": "DiscretBar",
+		"group": "Compendium",
         "colors": [
             "#E25757",
             "#008000",
@@ -67,6 +69,7 @@
         "key": "Should There Be New Elections Within the Next Five Years?",
         "date": "Apr 2014",
         "type": "Pie",
+		"group": "Election",
         "colors": [
             "#4EA2DE",
             "#E25757",
@@ -93,6 +96,7 @@
     {
         "key": "Will There Be New Elections Within the Next Five Years?",
         "date": "Apr 2014",
+		"group": "Election",
         "type": "Pie",
         "colors": [
             "#4EA2DE",
@@ -117,6 +121,7 @@
     {
         "key": "Were the Upazilla Elections Free & Fair?",
         "type": "Pie",
+		"group": "Election Credibility",
         "date": "Apr 2014",
         "colors": [
             "#4EA2DE",
@@ -144,6 +149,7 @@
     {
         "key": "Did Voter Confidence in the Bangladesh Election Commission Increase or Decrease After the Upazila Elections?",
         "type": "Pie",
+		"group": "Election Credibility",
         "date": "Apr 2014",
         "colors": [
             "#4EA2DE",
@@ -164,5 +170,145 @@
                 "value": 22
             }
         ]
-    }
+    },
+	{
+		"key":"Age",
+        "date": "Apr 2014",
+		"type": "DiscretBar",
+		"group": "demography",
+		"values":[
+		{
+			"label":"46 to 55",
+			"value":8
+		},
+		{
+			"label":"26 to 35",
+			"value":36
+		},
+		{
+			"label":"18 to 25",
+			"value":35
+		},
+		{
+			"label":"36 to 45",
+			"value":16
+		},
+		{
+			"label":"56 to 65",
+			"value":4
+		},
+		{
+			"label":"66 and above",
+			"value":1
+		}
+		]
+
+	}, {
+		"key":"Gender",
+        "date": "Apr 2014",
+		"group": "demography",
+		"type": "Pie",
+		"values":[
+		{
+			"label":"Male",
+			"value":73
+		},
+		{
+			"label":"Female",
+			"value":27
+		}
+		]
+
+	}, {
+		"key":"Religion",
+        "date": "Apr 2014",
+		"group": "demography",
+		"type": "Pie",
+		"values":[
+		{
+			"label":"Islam",
+			"value":90,
+			"series":0
+		},
+		{
+			"label":"Hinduism",
+			"value":7,
+			"series":0
+		},
+		{
+			"label":"Buddhism",
+			"value":2,
+			"series":0
+		},
+		{
+			"label":"Christianity",
+			"value":1,
+			"series":0
+		}
+		]
+
+	}, {
+		"key":"Urban/Rural",
+        "date": "Apr 2014",
+		"group": "demography",
+		"type": "Pie",
+		"values":[
+		{
+			"label":"Rural",
+			"value":54
+		},
+		{
+			"label":"Urban",
+			"value":46
+		}
+		]
+
+	},  {
+		"key":"Education",
+		"group": "demography",
+		"type": "DiscretBar",
+		"values":[
+		{
+			"label":"Illiterate",
+			"value":12,
+			"series":0
+		},
+		{
+			"label":"S.S.C/H.S.C",
+			"value":30,
+			"series":0
+		},
+		{
+			"label":"Professional Graduate or Above",
+			"value": 8,
+			"series":0
+		},
+		{
+			"label":"General Graduate or Above",
+			"value":7,
+			"series":0
+		},
+		{
+			"label":"Literate - No Formal Education",
+			"value":7,
+			"series":0
+		},
+		{
+			"label":"Class 5 to 9",
+			"value":24,
+			"series":0
+		},
+		{
+			"label":"Some College",
+			"value":4,
+			"series":0
+		},
+		{
+			"label":"Class 4",
+			"value":4,
+			"series":0
+		}
+		]
+	}
+
 ]
