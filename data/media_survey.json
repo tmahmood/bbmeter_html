@@ -1,6 +1,7 @@
 [{
 	"key": "Which Bangladeshi TV channel you watch most?",
 	"group": "Channel",
+	"date": "July 2014",
 	"type": "Pie",
 	"values": [
 		{
@@ -123,6 +124,7 @@
 },{
 	"key": "What kind of program do you watch most on TV?",
 	"group": "Program",
+	"date": "July 2014",
 	"type": "DiscretBar",
 	"values": [
 		{
@@ -169,6 +171,7 @@
 },{
 	"key": "Which TV program do you watch almost everyday?",
 	"group": "Program",
+	"date": "July 2014",
 	"type": "DiscretBar",
 	"values": [
 		{
@@ -219,6 +222,7 @@
 },{
 	"key": "Which Bangladeshi TV Channel air that program?",
 	"group": "Channel",
+	"date": "July 2014",
 	"type": "DiscretBar",
 	"values": [
 		{
@@ -337,6 +341,7 @@
 },{
 	"key": "What time this program starts?",
 	"group": "Program",
+	"date": "July 2014",
 	"type": "",
 	"values": [
 		{
@@ -537,8 +542,9 @@
 		}
 	]
 },{
-	"key": "Haw far in advance of the program starts you turn the TV on or switch to the channel to watch the program?",
+	"key": "How far in advance of the program starts you turn the TV on or switch to the channel to watch the program?",
 	"group": "Program",
+	"date": "July 2014",
 	"type": "Pie",
 	"values": [
 		{
@@ -577,6 +583,7 @@
 },{
 	"key": "What do you do during the commercial breaks?",
 	"group": "Program",
+	"date": "July 2014",
 	"type": "Pie",
 	"values": [
 		{
@@ -599,6 +606,7 @@
 },{
 	"key": "Do you read newspaper?",
 	"group": "Newspaper",
+	"date": "July 2014",
 	"type": "Pie",
 	"values": [
 		{
@@ -613,6 +621,7 @@
 },{
 	"key": "Which newspaper you read mostly?",
 	"group": "Newspaper",
+	"date": "July 2014",
 	"type": "DiscretBar",
 	"values": [
 		{
@@ -699,6 +708,7 @@
 },{
 	"key": "Age",
 	"group": "Demography",
+	"date": "July 2014",
 	"type": "Pie",
 	"values": [
 		{
@@ -733,6 +743,7 @@
 },{
 	"key": "Gender",
 	"group": "Demography",
+	"date": "July 2014",
 	"type": "Pie",
 	"values": [
 		{
@@ -747,6 +758,7 @@
 },{
 	"key": "Religion",
 	"group": "Demography",
+	"date": "July 2014",
 	"type": "Pie",
 	"values": [
 		{
@@ -773,6 +785,7 @@
 },{
 	"key": "Current District",
 	"group": "Demography",
+	"date": "July 2014",
 	"type": "DiscretBar",
 	"values": [
 		{
@@ -1035,6 +1048,7 @@
 },{
 	"key": "Living in Urban/Rural settings",
 	"group": "Demography",
+	"date": "July 2014",
 	"type": "Pie",
 	"values": [
 		{
@@ -1049,6 +1063,7 @@
 },{
 	"key": "Socio economic class (SEC)",
 	"group": "Demography",
+	"date": "July 2014",
 	"type": "Pie",
 	"values": [
 		{
@@ -1074,6 +1089,7 @@
 	]
 },{
 	"key": "Do you think things in Bangladesh are headed in the right direction, or are they headed in the wrong direction?",
+	"date": "July 2014",
 	"group": "Compendium",
 	"type": "DiscretBar",
 	"values": [
@@ -1093,6 +1109,7 @@
 },{
 	"key": "If the election is held today, which party would you think you are likely to vote for?",
 	"group": "Compendium",
+	"date": "July 2014",
 	"type": "DiscretBar",
 	"values": [
 		{
@@ -1143,6 +1160,7 @@
 },{
 	"key": "Division",
 	"group": "Demography",
+	"date": "July 2014",
 	"type": "Pie",
 	"values": [
 		{
