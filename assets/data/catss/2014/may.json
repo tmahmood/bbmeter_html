@@ -1,7 +1,11 @@
 [
-    {
+	{
+		"info": "Political Party & Governance Opinion Survey",
+		"participants": 1500,
+		"scope": "Political Party & Governance Opinion Survey conducted at May 2014",
+		"moe": "±2.5%",
         "key": "Is Bangladesh Headed in the Right Direction or Wrong Direction?",
-        "date": "Apr 2014",
+        "date": "May 2014",
         "type": "Pie",
 		"group": "Compendium",
         "colors": [ "#E25757", "#4EA2DE", "#5D478B" ],

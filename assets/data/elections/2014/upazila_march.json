@@ -1,0 +1,162 @@
+[
+	{
+		"scope": "Upazila Election held on March 2014",
+		"key": "Babuganj",
+		"group": "Upazila Election 2014 Phase 3",
+		"type": "DiscretBar",
+		"values": [
+			{
+				"label": "Md. Mizanur Rahman (AL, rebel)",
+				"value": "1075"
+			},
+			{
+				"label": "Md. Kamrul Ahsan Khan (BNP, rebel)",
+				"value": "5099"
+			},
+			{
+				"label": "Sardar Md. Khaled Hossen (AL)",
+				"value": "24037"
+			},
+			{
+				"label": "Md. Bazlur Rahman (AL, rebel)",
+				"value": "6099"
+			},
+			{
+				"label": "Sultan Ahmed Khan (BNP)",
+				"value": "6936"
+			}
+		]
+	},{
+		"key": "Bagherhut Sadar",
+		"group": "Upazila Election 2014 Phase 3",
+		"type": "DiscretBar",
+		"values": [
+			{
+				"label": "Md. Majibar Rahman Khan (AL)",
+				"value": "21705"
+			},
+			{
+				"label": "Beg Mahatab Uddin (JP)",
+				"value": "410"
+			},
+			{
+				"label": "Syed Nasir Ahmed Maleque (BNP)",
+				"value": "7151"
+			}
+		]
+	},{
+		"key": "Bandarban Sadar",
+		"group": "Upazila Election 2014 Phase 3",
+		"type": "DiscretBar",
+		"values": [
+			{
+				"label": "Abdul Kuddus (BNP)",
+				"value": "7371"
+			},
+			{
+				"label": "U Uin Mong Joly (JSS)",
+				"value": "6676"
+			},
+			{
+				"label": "Ka Sha Pru (AL)",
+				"value": "4222"
+			},
+			{
+				"label": "Md. Jahangir Alam (BNP, rebel)",
+				"value": "1560"
+			}
+		]
+	},{
+		"key": "Barakal",
+		"group": "Upazila Election 2014 Phase 3",
+		"type": "DiscretBar",
+		"values": [
+			{
+				"label": "Santos Kumar Chakma (AL)",
+				"value": "5219"
+			},
+			{
+				"label": "Kamal Joti Chakma (BNP)",
+				"value": "249"
+			},
+			{
+				"label": "Bihari Ranjan Chakma (Independent)",
+				"value": "937"
+			}
+		]
+	},{
+		"key": "Barlekha",
+		"group": "Upazila Election 2014 Phase 3",
+		"type": "DiscretBar",
+		"values": [
+			{
+				"label": "Rafiqul Islam Sundar (AL)",
+				"value": "13095"
+			},
+			{
+				"label": "Abdul Hafiz (BNP)",
+				"value": "10310"
+			},
+			{
+				"label": "Mawlana Imdadul Islam (Jamaat)",
+				"value": "13628"
+			},
+			{
+				"label": "Abdul Ahyat (JP)",
+				"value": "135"
+			}
+		]
+	},{
+		"key": "Bhola Sadar",
+		"group": "Upazila Election 2014 Phase 3",
+		"type": "DiscretBar",
+		"values": [
+			{
+				"label": "Md. Mosarraf Hossain (AL)",
+				"value": "65318"
+			},
+			{
+				"label": "Md. Billal Khan (Independent)",
+				"value": "278"
+			},
+			{
+				"label": "Md. Faraque (BNP)",
+				"value": "5007"
+			},
+			{
+				"label": "Mawlana Mizanur Rahman (IOJ)",
+				"value": "3171"
+			}
+		]
+	},{
+		"key": "BholaHut ",
+		"group": "Upazila Election 2014 Phase 3",
+		"type": "DiscretBar",
+		"values": [
+			{
+				"label": "Md. Babar Ali (BNP)",
+				"value": "176"
+			},
+			{
+				"label": "Md. Anwarul Islam (BNP, rebel)",
+				"value": "27810"
+			},
+			{
+				"label": "Md. Abdul Matin (Independent)",
+				"value": "461"
+			},
+			{
+				"label": "Md. Abdur Rashid (Independent)",
+				"value": "492"
+			},
+			{
+				"label": "Md. Ashraful Haque (AL)",
+				"value": "15874"
+			},
+			{
+				"label": "Md. Mozammel Haque (BNP, rebel)",
+				"value": "277"
+			}
+		]
+	}
+]

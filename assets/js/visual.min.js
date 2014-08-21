@@ -28,9 +28,15 @@ $(function(){
 Visual.prototype.onMenuItemClick = function() {
 	var me = this;
 
+	$(document).on('click', '._nv_archive', function(ev){
+		ev.preventDefault();
+		me.loadArchieves();
+	});
+
 	$(document).on('click', '._nv_graphs', function(ev){
 
 		ev.preventDefault();
+
 		if (me.visualizer.loading) {
 			return;
 		}
@@ -57,13 +63,25 @@ Visual.prototype.onMenuItemClick = function() {
 		} else {
 			me.showTextDocument(hash);
 		}
-
 	});
 }
 
+
+Visual.prototype.loadArchieves = function(hash) {
+	$('#frontend').hide();
+	$('#graphcontent').show();
+	if (this.archive == undefined) {
+		this.archive = new Archieve(this)
+							.loadArchieve()
+							.onSelectChange();
+	}
+	$('#surveymenu').show();
+};
+
+
 Visual.prototype.loadTextData = function(hash) {
 	var me = this;
-	d3.json('data/texts.json', function(res){
+	d3.json('assets/data/texts.json', function(res){
 		me.textdata = res;
 		me.showTextDocument(hash);
 	});
@@ -73,9 +91,9 @@ Visual.prototype.showTextDocument = function(hash) {
 
 	$('._nv_graphs').removeClass('active');
 	$('#graphcontent').hide();
-	$('#frontend').removeClass('distback');
+	$('#surveymenu').hide();
+	$('#frontend').show();
 	this.loadContentByHash(hash)
-
 };
 
 Visual.prototype.loadContentByHash = function(chash) {
@@ -83,7 +101,8 @@ Visual.prototype.loadContentByHash = function(chash) {
 	var hash = chash.split('$').pop();
 
 	$('#graphcontent').hide();
-	$('#frontend').removeClass('distback');
+	$('#surveymenu').hide();
+	$('#frontend').show();
 
 	var divheight = $(window).height();
 	$('#textcontainer').height(divheight);
@@ -108,13 +127,14 @@ Visual.prototype.loadContentByHash = function(chash) {
 
 		$('#textcontainer').show();
 		$('#textcontainer div h1').text(hdata['title']);
-		$('#textcontainer div p').text(hdata['content']);
+		$('#textcontainer div p').html(hdata['content']);
 
 		if (hdata['img'] != undefined) {
 			$('#textcontainer').css({ background: 'url(assets/imgs/' + hdata['img'] + ')' });
 		}
 
 	} else {
+
 		$('#textcontainer').hide();
 		if (this.presenter == undefined) {
 			this.presenter = new Presenter(hdata, '#frontend');
@@ -122,18 +142,19 @@ Visual.prototype.loadContentByHash = function(chash) {
 		} else {
 			$('#' + this.presenter.id).show();
 		}
+
 	}
 };
 
-
 Visual.prototype.loadGraphByHash = function(hash) {
-	$('#frontend').addClass('distback');
+	$('#frontend').hide();
 	$('#textcontainer').hide();
+	$('#surveymenu').hide();
 	$('#graphcontent').show();
-	var s = hash.split(this.visualizer.sepchar);
-	var filename = 'data/' + s[0] + '.json';
-	this.visualizer.loadData(filename, s[1]);
 
+	var s = hash.split(this.visualizer.sepchar);
+	var filename = 'assets/data/' + s[0] + '.json';
+	this.visualizer.loadData(filename, s[1]);
 
 };
 

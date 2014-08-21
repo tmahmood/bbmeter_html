@@ -1,131 +1,136 @@
-{
-	"key": "Most watched Channel",
-	"group": "TV Channel",
-	"type": "Pie",
-	"question": "Q2. Which Bangladeshi TV channel you watch most?",
-	"values": [
-		{
-			"label": "Asian TV",
-			"value": "0.3"
-		},
-		{
-			"label": "ATN Bangla",
-			"value": "9.9"
-		},
-		{
-			"label": "ATN News",
-			"value": "2.7"
-		},
-		{
-			"label": "Banglavision",
-			"value": "3.6"
-		},
-		{
-			"label": "Bijoy TV",
-			"value": "0.2"
-		},
-		{
-			"label": "Boishakhi Television",
-			"value": "0.6"
-		},
-		{
-			"label": "BTV",
-			"value": "31.4"
-		},
-		{
-			"label": "BTV World",
-			"value": "0.4"
-		},
-		{
-			"label": "Channel 16",
-			"value": "1.1"
-		},
-		{
-			"label": "Channel 24",
-			"value": "1.3"
-		},
-		{
-			"label": "Channel 9",
-			"value": "0.4"
-		},
-		{
-			"label": "Channel i",
-			"value": "9.9"
-		},
-		{
-			"label": "Desh TV",
-			"value": "0.5"
-		},
-		{
-			"label": "Ekattor TV",
-			"value": "0.5"
-		},
-		{
-			"label": "Ekushey Television",
-			"value": "4.1"
-		},
-		{
-			"label": "Gaan Bangla",
-			"value": "0.1"
-		},
-		{
-			"label": "Gazi TV (GTV)",
-			"value": "3.1"
-		},
-		{
-			"label": "Independent TV",
-			"value": "1.1"
-		},
-		{
-			"label": "Islamic TV",
-			"value": "0.6"
-		},
-		{
-			"label": "Jamuna TV",
-			"value": "0.2"
-		},
-		{
-			"label": "Maasranga TV",
-			"value": "1.9"
-		},
-		{
-			"label": "Mohona TV",
-			"value": "0.2"
-		},
-		{
-			"label": "My TV",
-			"value": "1.4"
-		},
-		{
-			"label": "Not Sure",
-			"value": "2"
-		},
-		{
-			"label": "NTV",
-			"value": "9.3"
-		},
-		{
-			"label": "Others",
-			"value": "0.6"
-		},
-		{
-			"label": "RTV",
-			"value": "7.5"
-		},
-		{
-			"label": "SA TV",
-			"value": "0"
-		},
-		{
-			"label": "Somoy Television",
-			"value": "5.1"
-		}
-	]
+[
+	{
+		"info": "Media Habits Survey July 2014",
+		"participants": 2000,
+		"scope": "Nationwide Media Habit Survey",
+		"moe": "±2.2%",
+		"key": "Which Bangladeshi TV channel you watch most?",
+		"group": "Channel",
+		"date": "July 2014",
+		"type": "Pie",
+		"values": [
+			{
+				"label": "Asian TV",
+				"value": "0.3"
+			},
+			{
+				"label": "ATN Bangla",
+				"value": "9.9"
+			},
+			{
+				"label": "ATN News",
+				"value": "2.7"
+			},
+			{
+				"label": "Banglavision",
+				"value": "3.6"
+			},
+			{
+				"label": "Bijoy TV",
+				"value": "0.2"
+			},
+			{
+				"label": "Boishakhi Television",
+				"value": "0.6"
+			},
+			{
+				"label": "BTV",
+				"value": "31.4"
+			},
+			{
+				"label": "BTV World",
+				"value": "0.4"
+			},
+			{
+				"label": "Channel 16",
+				"value": "1.1"
+			},
+			{
+				"label": "Channel 24",
+				"value": "1.3"
+			},
+			{
+				"label": "Channel 9",
+				"value": "0.4"
+			},
+			{
+				"label": "Channel i",
+				"value": "9.9"
+			},
+			{
+				"label": "Desh TV",
+				"value": "0.5"
+			},
+			{
+				"label": "Ekattor TV",
+				"value": "0.5"
+			},
+			{
+				"label": "Ekushey Television",
+				"value": "4.1"
+			},
+			{
+				"label": "Gaan Bangla",
+				"value": "0.1"
+			},
+			{
+				"label": "Gazi TV (GTV)",
+				"value": "3.1"
+			},
+			{
+				"label": "Independent TV",
+				"value": "1.1"
+			},
+			{
+				"label": "Islamic TV",
+				"value": "0.6"
+			},
+			{
+				"label": "Jamuna TV",
+				"value": "0.2"
+			},
+			{
+				"label": "Maasranga TV",
+				"value": "1.9"
+			},
+			{
+				"label": "Mohona TV",
+				"value": "0.2"
+			},
+			{
+				"label": "My TV",
+				"value": "1.4"
+			},
+			{
+				"label": "Not Sure",
+				"value": "2"
+			},
+			{
+				"label": "NTV",
+				"value": "9.3"
+			},
+			{
+				"label": "Others",
+				"value": "0.6"
+			},
+			{
+				"label": "RTV",
+				"value": "7.5"
+			},
+			{
+				"label": "SA TV",
+				"value": "0"
+			},
+			{
+				"label": "Somoy Television",
+				"value": "5.1"
+			}
+		]
 },{
-	"key": "Most Watched Show",
-	"group": "TV Program",
+	"key": "What kind of program do you watch most on TV?",
+	"group": "Program",
+	"date": "July 2014",
 	"type": "DiscretBar",
-	"question": "Q3. What kind of program do you watch most on TV?",
 	"values": [
 		{
 			"label": "Drama/Serial",
@@ -169,10 +174,10 @@
 		}
 	]
 },{
-	"key": "Watched Everyday",
-	"group": "Tv Program",
+	"key": "Which TV program do you watch almost everyday?",
+	"group": "Program",
+	"date": "July 2014",
 	"type": "DiscretBar",
-	"question": "Q4. Which TV program do you watch almost everyday?",
 	"values": [
 		{
 			"label": "NEWS",
@@ -220,10 +225,10 @@
 		}
 	]
 },{
-	"key": "Aired",
-	"group": "Tv Channel",
+	"key": "Which Bangladeshi TV Channel air that program?",
+	"group": "Channel",
+	"date": "July 2014",
 	"type": "DiscretBar",
-	"question": "Q5. Which Bangladeshi TV Channel air that program?",
 	"values": [
 		{
 			"label": "Asian TV",
@@ -339,10 +344,10 @@
 		}
 	]
 },{
-	"key": "Program Start Time",
-	"group": "Tv Program",
+	"key": "What time this program starts?",
+	"group": "Program",
+	"date": "July 2014",
 	"type": "",
-	"question": "Q6. What time this program starts?",
 	"values": [
 		{
 			"label": "05:01am ",
@@ -542,10 +547,10 @@
 		}
 	]
 },{
-	"key": "Switch time",
-	"group": "Tv Program",
+	"key": "How far in advance of the program starts you turn the TV on or switch to the channel to watch the program?",
+	"group": "Program",
+	"date": "July 2014",
 	"type": "Pie",
-	"question": "Q7. Haw far in advance of the program starts you turn the TV on or switch to the channel to watch the program?",
 	"values": [
 		{
 			"label": "1 minute before it starts",
@@ -581,10 +586,10 @@
 		}
 	]
 },{
-	"key": "Break Actions",
-	"group": "Tv Program",
+	"key": "What do you do during the commercial breaks?",
+	"group": "Program",
+	"date": "July 2014",
 	"type": "Pie",
-	"question": "Q8. What do you do during the commercial breaks?",
 	"values": [
 		{
 			"label": "Continue watching",
@@ -604,10 +609,10 @@
 		}
 	]
 },{
-	"key": "Reading",
+	"key": "Do you read newspaper?",
 	"group": "Newspaper",
+	"date": "July 2014",
 	"type": "Pie",
-	"question": "Q9. Do you read newspaper?",
 	"values": [
 		{
 			"label": "No",
@@ -619,10 +624,10 @@
 		}
 	]
 },{
-	"key": "Most read",
+	"key": "Which newspaper you read mostly?",
 	"group": "Newspaper",
+	"date": "July 2014",
 	"type": "DiscretBar",
-	"question": "Q10. Which newspaper you read mostly?",
 	"values": [
 		{
 			"label": "Samakal",
@@ -708,8 +713,8 @@
 },{
 	"key": "Age",
 	"group": "Demography",
+	"date": "July 2014",
 	"type": "Pie",
-	"question": "Q11. Age",
 	"values": [
 		{
 			"label": "15 to 25",
@@ -743,8 +748,8 @@
 },{
 	"key": "Gender",
 	"group": "Demography",
+	"date": "July 2014",
 	"type": "Pie",
-	"question": "Q12. Gender",
 	"values": [
 		{
 			"label": "Male",
@@ -758,8 +763,8 @@
 },{
 	"key": "Religion",
 	"group": "Demography",
+	"date": "July 2014",
 	"type": "Pie",
-	"question": "Q13. Religion",
 	"values": [
 		{
 			"label": "Buddhism",
@@ -783,10 +788,10 @@
 		}
 	]
 },{
-	"key": "District",
+	"key": "Current District",
 	"group": "Demography",
+	"date": "July 2014",
 	"type": "DiscretBar",
-	"question": "Q14. Current District",
 	"values": [
 		{
 			"label": "Bagerhat",
@@ -1046,10 +1051,10 @@
 		}
 	]
 },{
-	"key": "Living at",
+	"key": "Living in Urban/Rural settings",
 	"group": "Demography",
+	"date": "July 2014",
 	"type": "Pie",
-	"question": "Q15. Living in Urban/Rural settings",
 	"values": [
 		{
 			"label": "Urban",
@@ -1061,15 +1066,11 @@
 		}
 	]
 },{
-	"key": "",
-	"group": "",
-	"type": "",
-	"question": "SEC",
+	"key": "Socio economic class (SEC)",
+	"group": "Demography",
+	"date": "July 2014",
+	"type": "Pie",
 	"values": [
-		{
-			"label": "",
-			"value": "Percent"
-		},
 		{
 			"label": "A",
 			"value": "2"
@@ -1092,10 +1093,10 @@
 		}
 	]
 },{
-	"key": "Direction",
+	"key": "Do you think things in Bangladesh are headed in the right direction, or are they headed in the wrong direction?",
+	"date": "July 2014",
 	"group": "Compendium",
 	"type": "DiscretBar",
-	"question": "Q19. Do you think things in Bangladesh are headed in the right direction, or are they headed in the wrong direction?",
 	"values": [
 		{
 			"label": "Don't know/Unsure",
@@ -1111,10 +1112,10 @@
 		}
 	]
 },{
-	"key": "Party",
+	"key": "If the election is held today, which party would you think you are likely to vote for?",
 	"group": "Compendium",
+	"date": "July 2014",
 	"type": "DiscretBar",
-	"question": "Q20. If the election is held today, which party would you think you are likely to vote for?",
 	"values": [
 		{
 			"label": "18 parties alliance",
@@ -1164,8 +1165,8 @@
 },{
 	"key": "Division",
 	"group": "Demography",
+	"date": "July 2014",
 	"type": "Pie",
-	"question": "Division",
 	"values": [
 		{
 			"label": "Barisal",
@@ -1196,4 +1197,4 @@
 			"value": "7"
 		}
 	]
-}
+}]
