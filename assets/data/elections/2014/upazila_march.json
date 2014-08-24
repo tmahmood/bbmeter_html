@@ -7,23 +7,23 @@
 		"values": [
 			{
 				"label": "Md. Mizanur Rahman (AL, rebel)",
-				"value": "1075"
+				"value": "2.5"
 			},
 			{
 				"label": "Md. Kamrul Ahsan Khan (BNP, rebel)",
-				"value": "5099"
+				"value": "11.83"
 			},
 			{
 				"label": "Sardar Md. Khaled Hossen (AL)",
-				"value": "24037"
+				"value": "55.78"
 			},
 			{
 				"label": "Md. Bazlur Rahman (AL, rebel)",
-				"value": "6099"
+				"value": "14.15"
 			},
 			{
 				"label": "Sultan Ahmed Khan (BNP)",
-				"value": "6936"
+				"value": "16.09"
 			}
 		]
 	},{
@@ -33,15 +33,15 @@
 		"values": [
 			{
 				"label": "Md. Majibar Rahman Khan (AL)",
-				"value": "21705"
+				"value": "69.07"
 			},
 			{
 				"label": "Beg Mahatab Uddin (JP)",
-				"value": "410"
+				"value": "1.304"
 			},
 			{
 				"label": "Syed Nasir Ahmed Maleque (BNP)",
-				"value": "7151"
+				"value": "22.76"
 			}
 		]
 	},{
@@ -51,19 +51,19 @@
 		"values": [
 			{
 				"label": "Abdul Kuddus (BNP)",
-				"value": "7371"
+				"value": "34.88"
 			},
 			{
 				"label": "U Uin Mong Joly (JSS)",
-				"value": "6676"
+				"value": "31.6"
 			},
 			{
 				"label": "Ka Sha Pru (AL)",
-				"value": "4222"
+				"value": "19.98"
 			},
 			{
 				"label": "Md. Jahangir Alam (BNP, rebel)",
-				"value": "1560"
+				"value": "7.38"
 			}
 		]
 	},{
@@ -73,16 +73,21 @@
 		"values": [
 			{
 				"label": "Santos Kumar Chakma (AL)",
-				"value": "5219"
+				"value": "38.06"
 			},
 			{
 				"label": "Kamal Joti Chakma (BNP)",
-				"value": "249"
+				"value": "1.81"
 			},
 			{
 				"label": "Bihari Ranjan Chakma (Independent)",
-				"value": "937"
+				"value": "6.83"
+			},
+			{
+				"label": "Moni Chakma (JSS)",
+				"value": "39.43"
 			}
+
 		]
 	},{
 		"key": "Barlekha",
@@ -91,19 +96,19 @@
 		"values": [
 			{
 				"label": "Rafiqul Islam Sundar (AL)",
-				"value": "13095"
+				"value": "30.26"
 			},
 			{
 				"label": "Abdul Hafiz (BNP)",
-				"value": "10310"
+				"value": "23.82"
 			},
 			{
 				"label": "Mawlana Imdadul Islam (Jamaat)",
-				"value": "13628"
+				"value": "31.48"
 			},
 			{
 				"label": "Abdul Ahyat (JP)",
-				"value": "135"
+				"value": "0.3"
 			}
 		]
 	},{
@@ -113,19 +118,19 @@
 		"values": [
 			{
 				"label": "Md. Mosarraf Hossain (AL)",
-				"value": "65318"
+				"value": "82.80"
 			},
 			{
 				"label": "Md. Billal Khan (Independent)",
-				"value": "278"
+				"value": "0.35"
 			},
 			{
 				"label": "Md. Faraque (BNP)",
-				"value": "5007"
+				"value": "6.34"
 			},
 			{
 				"label": "Mawlana Mizanur Rahman (IOJ)",
-				"value": "3171"
+				"value": "4.01"
 			}
 		]
 	},{
@@ -135,27 +140,27 @@
 		"values": [
 			{
 				"label": "Md. Babar Ali (BNP)",
-				"value": "176"
+				"value": "0.38"
 			},
 			{
 				"label": "Md. Anwarul Islam (BNP, rebel)",
-				"value": "27810"
+				"value": "60.21"
 			},
 			{
 				"label": "Md. Abdul Matin (Independent)",
-				"value": "461"
+				"value": "0.99"
 			},
 			{
 				"label": "Md. Abdur Rashid (Independent)",
-				"value": "492"
+				"value": "1.06"
 			},
 			{
 				"label": "Md. Ashraful Haque (AL)",
-				"value": "15874"
+				"value": "34.3"
 			},
 			{
 				"label": "Md. Mozammel Haque (BNP, rebel)",
-				"value": "277"
+				"value": "0.5"
 			}
 		]
 	}
