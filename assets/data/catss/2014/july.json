@@ -5,7 +5,7 @@
 		"scope": "Nationwide Media Habit Survey",
 		"moe": "±2.2%",
 		"key": "Which Bangladeshi TV channel you watch most?",
-		"group": "Channel",
+		"group": "TV",
 		"date": "July 2014",
 		"type": "Pie",
 		"values": [
@@ -128,7 +128,7 @@
 		]
 },{
 	"key": "What kind of program do you watch most on TV?",
-	"group": "Program",
+	"group": "TV",
 	"date": "July 2014",
 	"type": "DiscretBar",
 	"values": [
@@ -175,7 +175,7 @@
 	]
 },{
 	"key": "Which TV program do you watch almost every day?",
-	"group": "Program",
+	"group": "TV",
 	"date": "July 2014",
 	"type": "DiscretBar",
 	"values": [
@@ -226,7 +226,7 @@
 	]
 },{
 	"key": "Which Bangladeshi TV Channel airs that program?",
-	"group": "Channel",
+	"group": "TV",
 	"date": "July 2014",
 	"type": "DiscretBar",
 	"values": [
@@ -345,7 +345,7 @@
 	]
 },{
 	"key": "What time this program starts?",
-	"group": "Program",
+	"group": "TV",
 	"date": "July 2014",
 	"type": "DiscretBar",
 	"values": [
@@ -548,7 +548,7 @@
 	]
 },{
 	"key": "How far in advance of the program starts you turn the TV on or switch to the channel to watch the program?",
-	"group": "Program",
+	"group": "TV",
 	"date": "July 2014",
 	"type": "Pie",
 	"values": [
@@ -587,7 +587,7 @@
 	]
 },{
 	"key": "What do you do during the commercial breaks?",
-	"group": "Program",
+	"group": "TV",
 	"date": "July 2014",
 	"type": "Pie",
 	"values": [
