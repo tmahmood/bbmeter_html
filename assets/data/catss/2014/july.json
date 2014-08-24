@@ -347,7 +347,7 @@
 	"key": "What time this program starts?",
 	"group": "Program",
 	"date": "July 2014",
-	"type": "",
+	"type": "DiscretBar",
 	"values": [
 		{
 			"label": "05:01am ",
