@@ -174,7 +174,7 @@
 		}
 	]
 },{
-	"key": "Which TV program do you watch almost everyday?",
+	"key": "Which TV program do you watch almost every day?",
 	"group": "Program",
 	"date": "July 2014",
 	"type": "DiscretBar",
@@ -225,7 +225,7 @@
 		}
 	]
 },{
-	"key": "Which Bangladeshi TV Channel air that program?",
+	"key": "Which Bangladeshi TV Channel airs that program?",
 	"group": "Channel",
 	"date": "July 2014",
 	"type": "DiscretBar",
@@ -609,7 +609,7 @@
 		}
 	]
 },{
-	"key": "Do you read newspaper?",
+	"key": "Do you read newspapers?",
 	"group": "Newspaper",
 	"date": "July 2014",
 	"type": "Pie",
@@ -624,7 +624,7 @@
 		}
 	]
 },{
-	"key": "Which newspaper you read mostly?",
+	"key": "Which newspaper you read most?",
 	"group": "Newspaper",
 	"date": "July 2014",
 	"type": "DiscretBar",
@@ -1082,76 +1082,6 @@
 		{
 			"label": "E",
 			"value": "46.1"
-		}
-	]
-},{
-	"key": "Do you think things in Bangladesh are headed in the right direction, or are they headed in the wrong direction?",
-	"date": "July 2014",
-	"group": "Compendium",
-	"type": "DiscretBar",
-	"values": [
-		{
-			"label": "Don't know/Unsure",
-			"value": "9.4"
-		},
-		{
-			"label": "Right Direction",
-			"value": "48"
-		},
-		{
-			"label": "Wrong Direction",
-			"value": "42.6"
-		}
-	]
-},{
-	"key": "If the election is held today, which party would you think you are likely to vote for?",
-	"group": "Compendium",
-	"date": "July 2014",
-	"type": "DiscretBar",
-	"values": [
-		{
-			"label": "18 parties alliance",
-			"value": "0.2"
-		},
-		{
-			"label": "A new party",
-			"value": "5.3"
-		},
-		{
-			"label": "AL",
-			"value": "38.3"
-		},
-		{
-			"label": "BNP",
-			"value": "32.6"
-		},
-		{
-			"label": "Don't know/can't say",
-			"value": "7.2"
-		},
-		{
-			"label": "Jamat-i-Islami",
-			"value": "4.7"
-		},
-		{
-			"label": "JP",
-			"value": "1.4"
-		},
-		{
-			"label": "Mohajote",
-			"value": "0.4"
-		},
-		{
-			"label": "Not yet taken any decision",
-			"value": "5"
-		},
-		{
-			"label": "Others",
-			"value": "0.7"
-		},
-		{
-			"label": "Refused to reveal",
-			"value": "4.3"
 		}
 	]
 },{
