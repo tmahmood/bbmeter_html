@@ -128,7 +128,7 @@
 		]
 },{
 	"key": "What kind of program do you watch most on TV?",
-	"group": "TV",
+	"group": "Most Watched Program",
 	"date": "July 2014",
 	"type": "DiscretBar",
 	"values": [

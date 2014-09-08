@@ -1,8 +1,6 @@
 [
 	{
-		"participants": "not applicable",
 		"scope": "Media Monitoring collects information about discussed selected Political information",
-		"moe": "not applicable",
 		"key": "Top 5 issues for last 2 week, based on statement",
 		"description": "Top 5 issues on the media for last 2 weeks, based on statements",
 		"date": "Aug 2014",

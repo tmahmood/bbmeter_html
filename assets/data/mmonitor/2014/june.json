@@ -1,8 +1,6 @@
 [
 	{
-		"participants": 1000,
 		"scope": "Media Monitoring collects information about discussed selected Political information",
-		"moe": "±2%",
 		"key": "Media perception for last 2 weeks",
 		"description": "Media perception of political parties and personalities regarding top 5 issues",
 		"date": "August 2014",
