@@ -1,0 +1,930 @@
+[
+    {
+        "key": "q5a. Attitude toward institute - National Parliament",
+        "group": "Institute",
+        "type": "Pie",
+        "values": [
+            {
+                "label": "Somewhat satisfied",
+                "value": "25.3"
+            },
+            {
+                "label": "Neither satisfied nor dissatisfied",
+                "value": "8.2"
+            },
+            {
+                "label": "Somewhat dissatisfied",
+                "value": "4.8"
+            },
+            {
+                "label": "Highly dissatisfied",
+                "value": "7.1"
+            },
+            {
+                "label": "Never heard",
+                "value": "3.2"
+            },
+            {
+                "label": "Refused",
+                "value": "0.2"
+            },
+            {
+                "label": "Can\u0092t say\/ Don't know",
+                "value": "3.8"
+            }
+        ]
+    },
+    {
+        "key": "q5b. Attitude toward institute - Police",
+        "group": "Institute",
+        "type": "Pie",
+        "values": [
+            {
+                "label": "Somewhat satisfied",
+                "value": "26.9"
+            },
+            {
+                "label": "Neither satisfied nor dissatisfied",
+                "value": "7.5"
+            },
+            {
+                "label": "Somewhat dissatisfied",
+                "value": "17.1"
+            },
+            {
+                "label": "Highly dissatisfied",
+                "value": "20.7"
+            },
+            {
+                "label": "Never heard",
+                "value": "0.1"
+            },
+            {
+                "label": "Refused",
+                "value": "0.3"
+            },
+            {
+                "label": "Can\u0092t say\/ Don't know",
+                "value": "0.3"
+            }
+        ]
+    },
+    {
+        "key": "q5c. Attitude toward institute - Bangladesh Election Commission",
+        "group": "Institute",
+        "type": "Pie",
+        "values": [
+            {
+                "label": "Somewhat satisfied",
+                "value": "25.6"
+            },
+            {
+                "label": "Neither satisfied nor dissatisfied",
+                "value": "12.3"
+            },
+            {
+                "label": "Somewhat dissatisfied",
+                "value": "8"
+            },
+            {
+                "label": "Highly dissatisfied",
+                "value": "11.7"
+            },
+            {
+                "label": "Never heard",
+                "value": "3.7"
+            },
+            {
+                "label": "Refused",
+                "value": "0.3"
+            },
+            {
+                "label": "Can\u0092t say\/ Don't know",
+                "value": "2.2"
+            }
+        ]
+    },
+    {
+        "key": "q5d. Attitude toward institute - Supreme Court of Bangladesh",
+        "group": "Institute",
+        "type": "Pie",
+        "values": [
+            {
+                "label": "Somewhat satisfied",
+                "value": "27.5"
+            },
+            {
+                "label": "Neither satisfied nor dissatisfied",
+                "value": "10.9"
+            },
+            {
+                "label": "Somewhat dissatisfied",
+                "value": "4.6"
+            },
+            {
+                "label": "Highly dissatisfied",
+                "value": "6.1"
+            },
+            {
+                "label": "Never heard",
+                "value": "4.1"
+            },
+            {
+                "label": "Refused",
+                "value": "0.4"
+            },
+            {
+                "label": "Can\u0092t say\/ Don't know",
+                "value": "2.7"
+            }
+        ]
+    },
+    {
+        "key": "q5e. Attitude toward institute - Rapid Action Battalion (RAB)",
+        "group": "Institute",
+        "type": "Pie",
+        "values": [
+            {
+                "label": "Somewhat satisfied",
+                "value": "25.5"
+            },
+            {
+                "label": "Neither satisfied nor dissatisfied",
+                "value": "6.6"
+            },
+            {
+                "label": "Somewhat dissatisfied",
+                "value": "9.8"
+            },
+            {
+                "label": "Highly dissatisfied",
+                "value": "7.6"
+            },
+            {
+                "label": "Never heard",
+                "value": "0.5"
+            },
+            {
+                "label": "Refused",
+                "value": "0.2"
+            },
+            {
+                "label": "Can\u0092t say\/ Don't know",
+                "value": "0.7"
+            }
+        ]
+    },
+    {
+        "key": "q5f. Attitude toward institute - Anti Corruption Commission",
+        "group": "Institute",
+        "type": "Pie",
+        "values": [
+            {
+                "label": "Somewhat satisfied",
+                "value": "27.2"
+            },
+            {
+                "label": "Neither satisfied nor dissatisfied",
+                "value": "10.5"
+            },
+            {
+                "label": "Somewhat dissatisfied",
+                "value": "7.8"
+            },
+            {
+                "label": "Highly dissatisfied",
+                "value": "10.2"
+            },
+            {
+                "label": "Never heard",
+                "value": "5"
+            },
+            {
+                "label": "Refused",
+                "value": "0.3"
+            },
+            {
+                "label": "Can\u0092t say\/ Don't know",
+                "value": "2.2"
+            }
+        ]
+    },
+    {
+        "key": "q5g. Attitude toward institute - Bangladesh Military",
+        "group": "Institute",
+        "type": "Pie",
+        "values": [
+            {
+                "label": "Somewhat satisfied",
+                "value": "19.7"
+            },
+            {
+                "label": "Neither satisfied nor dissatisfied",
+                "value": "3.2"
+            },
+            {
+                "label": "Somewhat dissatisfied",
+                "value": "1.8"
+            },
+            {
+                "label": "Highly dissatisfied",
+                "value": "1.5"
+            },
+            {
+                "label": "Never heard",
+                "value": "0.1"
+            },
+            {
+                "label": "Refused",
+                "value": "0.2"
+            },
+            {
+                "label": "Can\u0092t say\/ Don't know",
+                "value": "0.5"
+            }
+        ]
+    },
+    {
+        "key": "q9. Economic situation compared to the same five years back",
+        "group": "Economy",
+        "type": "Pie",
+        "values": [
+            {
+                "label": "Worse off",
+                "value": "32"
+            },
+            {
+                "label": "Stayed the same",
+                "value": "18"
+            },
+            {
+                "label": "Refused",
+                "value": "0"
+            },
+            {
+                "label": "Don\u0092t Know\/Can\u0092t Say",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "key": "q10. Economy under current government",
+        "group": "Economy",
+        "type": "Pie",
+        "values": [
+            {
+                "label": "Worse off",
+                "value": "28"
+            },
+            {
+                "label": "Stayed the same",
+                "value": "15"
+            },
+            {
+                "label": "Refused",
+                "value": "1"
+            },
+            {
+                "label": "Don\u0092t Know\/Can\u0092t Say",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "key": "q4a. Attitude towards - Begum Khaleda Zia",
+        "group": "Personalities",
+        "type": "Pie",
+        "values": [
+            {
+                "label": "Like a little",
+                "value": "24.4"
+            },
+            {
+                "label": "Neither like nor dislike",
+                "value": "11.5"
+            },
+            {
+                "label": "Dislike a little",
+                "value": "10"
+            },
+            {
+                "label": "Dislike   a lot",
+                "value": "13.7"
+            },
+            {
+                "label": "Refused",
+                "value": "1.3"
+            },
+            {
+                "label": "Can\u0092t say\/Don't know",
+                "value": "0.6"
+            }
+        ]
+    },
+    {
+        "key": "q4b. Attitude towards - Sajeeb Wazed Joy",
+        "group": "Personalities",
+        "type": "Pie",
+        "values": [
+            {
+                "label": "Like a little",
+                "value": "21.2"
+            },
+            {
+                "label": "Neither like nor dislike",
+                "value": "15.3"
+            },
+            {
+                "label": "Dislike a little",
+                "value": "9.4"
+            },
+            {
+                "label": "Dislike   a lot",
+                "value": "11.4"
+            },
+            {
+                "label": "Never heard",
+                "value": "20.9"
+            },
+            {
+                "label": "Refused",
+                "value": "0.5"
+            },
+            {
+                "label": "Can\u0092t say\/Don't know",
+                "value": "1.7"
+            }
+        ]
+    },
+    {
+        "key": "q4c. Attitude towards - Begum Rowshan Ershad",
+        "group": "Personalities",
+        "type": "Pie",
+        "values": [
+            {
+                "label": "Like a little",
+                "value": "23.6"
+            },
+            {
+                "label": "Neither like nor dislike",
+                "value": "22.8"
+            },
+            {
+                "label": "Dislike a little",
+                "value": "14.8"
+            },
+            {
+                "label": "Dislike   a lot",
+                "value": "16.6"
+            },
+            {
+                "label": "Never heard",
+                "value": "12.6"
+            },
+            {
+                "label": "Refused",
+                "value": "0.8"
+            },
+            {
+                "label": "Can\u0092t say\/Don't know",
+                "value": "1.6"
+            }
+        ]
+    },
+    {
+        "key": "q4d. Attitude towards - Syed Ashraful Islam",
+        "group": "Personalities",
+        "type": "Pie",
+        "values": [
+            {
+                "label": "Like a little",
+                "value": "17.4"
+            },
+            {
+                "label": "Neither like nor dislike",
+                "value": "15.7"
+            },
+            {
+                "label": "Dislike a little",
+                "value": "10.2"
+            },
+            {
+                "label": "Dislike   a lot",
+                "value": "10"
+            },
+            {
+                "label": "Never heard",
+                "value": "31.6"
+            },
+            {
+                "label": "Refused",
+                "value": "0.6"
+            },
+            {
+                "label": "Can\u0092t say\/Don't know",
+                "value": "3.1"
+            }
+        ]
+    },
+    {
+        "key": "q4e. Attitude towards - HM Ershad",
+        "group": "Personalities",
+        "type": "Pie",
+        "values": [
+            {
+                "label": "Like a little",
+                "value": "30.5"
+            },
+            {
+                "label": "Neither like nor dislike",
+                "value": "14.9"
+            },
+            {
+                "label": "Dislike a little",
+                "value": "12.8"
+            },
+            {
+                "label": "Dislike   a lot",
+                "value": "18.6"
+            },
+            {
+                "label": "Never heard",
+                "value": "4"
+            },
+            {
+                "label": "Refused",
+                "value": "0.3"
+            },
+            {
+                "label": "Can\u0092t say\/Don't know",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "key": "q4f.  Attitude towards - Mirza Fakhrul Islam Alamgir",
+        "group": "Personalities",
+        "type": "Pie",
+        "values": [
+            {
+                "label": "Like a little",
+                "value": "25"
+            },
+            {
+                "label": "Neither like nor dislike",
+                "value": "12.8"
+            },
+            {
+                "label": "Dislike a little",
+                "value": "9.2"
+            },
+            {
+                "label": "Dislike   a lot",
+                "value": "10.3"
+            },
+            {
+                "label": "Never heard",
+                "value": "19.3"
+            },
+            {
+                "label": "Refused",
+                "value": "0.7"
+            },
+            {
+                "label": "Can\u0092t say\/Don't know",
+                "value": "1.6"
+            }
+        ]
+    },
+    {
+        "key": "q4g. Attitude towards - Sheikh Hasina",
+        "group": "Personalities",
+        "type": "Pie",
+        "values": [
+            {
+                "label": "Like a little",
+                "value": "20.1"
+            },
+            {
+                "label": "Neither like nor dislike",
+                "value": "7.6"
+            },
+            {
+                "label": "Dislike a little",
+                "value": "7.6"
+            },
+            {
+                "label": "Dislike   a lot",
+                "value": "17.6"
+            },
+            {
+                "label": "Never heard",
+                "value": "0.2"
+            },
+            {
+                "label": "Refused",
+                "value": "1.1"
+            },
+            {
+                "label": "Can\u0092t say\/Don't know",
+                "value": "0.4"
+            }
+        ]
+    },
+    {
+        "key": "q4h. Attitude towards - Tareque Zia",
+        "group": "Personalities",
+        "type": "Pie",
+        "values": [
+            {
+                "label": "Like a little",
+                "value": "25.6"
+            },
+            {
+                "label": "Neither like nor dislike",
+                "value": "15.8"
+            },
+            {
+                "label": "Dislike a little",
+                "value": "11.9"
+            },
+            {
+                "label": "Dislike   a lot",
+                "value": "17.3"
+            },
+            {
+                "label": "Never heard",
+                "value": "3"
+            },
+            {
+                "label": "Refused",
+                "value": "0.6"
+            },
+            {
+                "label": "Can\u0092t say\/Don't know",
+                "value": "1.1"
+            }
+        ]
+    },
+    {
+        "key": "q4i. Attitude towards - Ziauddin Ahmed Bablu",
+        "group": "Personalities",
+        "type": "Pie",
+        "values": [
+            {
+                "label": "Like a little",
+                "value": "12.7"
+            },
+            {
+                "label": "Neither like nor dislike",
+                "value": "15.5"
+            },
+            {
+                "label": "Dislike a little",
+                "value": "7.8"
+            },
+            {
+                "label": "Dislike   a lot",
+                "value": "8.9"
+            },
+            {
+                "label": "Never heard",
+                "value": "46.2"
+            },
+            {
+                "label": "Refused",
+                "value": "0.8"
+            },
+            {
+                "label": "Can\u0092t say\/Don't know",
+                "value": "4.7"
+            }
+        ]
+    },
+    {
+        "key": "q7a.Performance - Begum Khaleda Zia as BNP Chairperson",
+        "group": "Performance",
+        "type": "Pie",
+        "values": [
+            {
+                "label": "Somewhat good",
+                "value": "28.4"
+            },
+            {
+                "label": "Neither good nor poor",
+                "value": "12.8"
+            },
+            {
+                "label": "Somewhat poor",
+                "value": "12.6"
+            },
+            {
+                "label": "Very poor",
+                "value": "9.9"
+            },
+            {
+                "label": "Never heard",
+                "value": "0.2"
+            },
+            {
+                "label": "Refused",
+                "value": "0.7"
+            },
+            {
+                "label": "Can\u0092t say\/ Don't Know",
+                "value": "1.3"
+            }
+        ]
+    },
+    {
+        "key": "q7c.Performance - Ziauddin Ahmed Bablu as JP Secretary General",
+        "group": "Performance",
+        "type": "Pie",
+        "values": [
+            {
+                "label": "Somewhat good",
+                "value": "14.2"
+            },
+            {
+                "label": "Neither good nor poor",
+                "value": "20.5"
+            },
+            {
+                "label": "Somewhat poor",
+                "value": "10.9"
+            },
+            {
+                "label": "Very poor",
+                "value": "7.7"
+            },
+            {
+                "label": "Never heard",
+                "value": "36.9"
+            },
+            {
+                "label": "Refused",
+                "value": "0.7"
+            },
+            {
+                "label": "Can\u0092t say\/ Don't Know",
+                "value": "5.1"
+            }
+        ]
+    },
+    {
+        "key": "q7f.Performance - Shekikh Hasina as Prime Minister",
+        "group": "Performance",
+        "type": "Pie",
+        "values": [
+            {
+                "label": "Somewhat good",
+                "value": "23.9"
+            },
+            {
+                "label": "Neither good nor poor",
+                "value": "8.4"
+            },
+            {
+                "label": "Somewhat poor",
+                "value": "9.3"
+            },
+            {
+                "label": "Very poor",
+                "value": "16.1"
+            },
+            {
+                "label": "Never heard",
+                "value": "0.2"
+            },
+            {
+                "label": "Refused",
+                "value": "0.8"
+            },
+            {
+                "label": "Can\u0092t say\/ Don't Know",
+                "value": "0.5"
+            }
+        ]
+    },
+    {
+        "key": "q7g.Performance - Mirza Fakhrul Alamgir as BNP Secretary General",
+        "group": "Performance",
+        "type": "Pie",
+        "values": [
+            {
+                "label": "Somewhat good",
+                "value": "27.9"
+            },
+            {
+                "label": "Neither good nor poor",
+                "value": "15.2"
+            },
+            {
+                "label": "Somewhat poor",
+                "value": "11.4"
+            },
+            {
+                "label": "Very poor",
+                "value": "6.8"
+            },
+            {
+                "label": "Never heard",
+                "value": "15.1"
+            },
+            {
+                "label": "Refused",
+                "value": "0.4"
+            },
+            {
+                "label": "Can\u0092t say\/ Don't Know",
+                "value": "2"
+            }
+        ]
+    },
+    {
+        "key": "q7i.Performance - HM Ershad as JP President",
+        "group": "Performance",
+        "type": "Pie",
+        "values": [
+            {
+                "label": "Somewhat good",
+                "value": "30"
+            },
+            {
+                "label": "Neither good nor poor",
+                "value": "20.8"
+            },
+            {
+                "label": "Somewhat poor",
+                "value": "16.1"
+            },
+            {
+                "label": "Very poor",
+                "value": "13.6"
+            },
+            {
+                "label": "Never heard",
+                "value": "3.7"
+            },
+            {
+                "label": "Refused",
+                "value": "0.4"
+            },
+            {
+                "label": "Can\u0092t say\/ Don't Know",
+                "value": "1.8"
+            }
+        ]
+    },
+    {
+        "key": "q7j.Performance - Syed Asraful Islam as AL General Secretary",
+        "group": "Performance",
+        "type": "Pie",
+        "values": [
+            {
+                "label": "Somewhat good",
+                "value": "19.3"
+            },
+            {
+                "label": "Neither good nor poor",
+                "value": "16.6"
+            },
+            {
+                "label": "Somewhat poor",
+                "value": "12.3"
+            },
+            {
+                "label": "Very poor",
+                "value": "9.7"
+            },
+            {
+                "label": "Never heard",
+                "value": "23.2"
+            },
+            {
+                "label": "Refused",
+                "value": "1"
+            },
+            {
+                "label": "Can\u0092t say\/ Don't Know",
+                "value": "3.4"
+            }
+        ]
+    },
+    {
+        "key": "q7k.Performance - Begum Rowshan Ershad as Leader of Opposition party",
+        "group": "Performance",
+        "type": "Pie",
+        "values": [
+            {
+                "label": "Somewhat good",
+                "value": "23.2"
+            },
+            {
+                "label": "Neither good nor poor",
+                "value": "25.3"
+            },
+            {
+                "label": "Somewhat poor",
+                "value": "15.5"
+            },
+            {
+                "label": "Very poor",
+                "value": "14.1"
+            },
+            {
+                "label": "Never heard",
+                "value": "11.2"
+            },
+            {
+                "label": "Refused",
+                "value": "1.1"
+            },
+            {
+                "label": "Can\u0092t say\/ Don't Know",
+                "value": "2.8"
+            }
+        ]
+    },
+    {
+        "key": "q17. Importance of women's involvement in politics",
+        "group": "UNGROUPED",
+        "type": "Pie",
+        "values": [
+            {
+                "label": "Important",
+                "value": "29.0"
+            },
+            {
+                "label": "Not too important",
+                "value": "11.8"
+            },
+            {
+                "label": "Not important at all",
+                "value": "19.1"
+            },
+            {
+                "label": "Refused",
+                "value": ".4"
+            },
+            {
+                "label": "Don\u0092t Know\/Can\u0092t Say",
+                "value": ".7"
+            }
+        ]
+    },
+    {
+        "key": "q18. Importance women in party leadership position",
+        "group": "UNGROUPED",
+        "type": "Pie",
+        "values": [
+            {
+                "label": "Important",
+                "value": "31.4"
+            },
+            {
+                "label": "Not too important",
+                "value": "11.7"
+            },
+            {
+                "label": "Not important at all",
+                "value": "18.7"
+            },
+            {
+                "label": "Refused",
+                "value": ".3"
+            },
+            {
+                "label": "Don\u0092t Know\/Can\u0092t Say",
+                "value": ".9"
+            }
+        ]
+    },
+    {
+        "key": "q20. Importance of youth involvement in politics",
+        "group": "UNGROUPED",
+        "type": "Pie",
+        "values": [
+            {
+                "label": "Important",
+                "value": "18.6"
+            },
+            {
+                "label": "Not too important",
+                "value": "5.4"
+            },
+            {
+                "label": "Not important at all",
+                "value": "4.7"
+            },
+            {
+                "label": "Refused",
+                "value": ".1"
+            },
+            {
+                "label": "Don\u0092t Know\/Can\u0092t Say",
+                "value": ".4"
+            }
+        ]
+    }
+]

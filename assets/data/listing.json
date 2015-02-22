@@ -1,31 +1,21 @@
 {
-	"All Data": [
-					["Latest Telephone Survey", "catss/2014/july"],
-					["Campaign Message Testing", "catss/2014/june"],
-					["Latest Media Survey", "catss/2014/july"],
-					["Political Party & Governance Opinion Survey", "catss/2014/may"],
-					["Latest Media Monitoring", "mmonitor/2014/aug"],
-					["Media Monitoring, June 2014", "mmonitor/2014/june"],
-					["Upazila Election, March 2014", "elections/2014/upazila_march"],
-					["Compendium 2012-2013", "previous/compendium"]
-				],
-
 	"Media Habits Survey": [
 					["July 2014", "catss/2014/july"]
 				],
 
 	"Telephone Survey": [
-							[ "Political Party & Governance Opinion Poll", "catss/2014/may" ],
-							[ "Campaign Message Testing", "catss/2014/june"],
-							[ "Media Habits Survey", "catss/2014/july"]
+							[ "DPR Survey - December 21 - January 11", "catss/2014/dec"],
+							[ "DPR Survey - September 2014", "catss/2014/sep"],
+							[ "Political Party & Governance Opinion Poll - May 2014", "catss/2014/may" ],
+							[ "Campaign Message Testing - June 2014", "catss/2014/june"],
+							[ "Media Habits Survey - July 2014", "catss/2014/july"]
 				],
 	"Media Monitoring": [
 							[ "August 2014", "mmonitor/2014/aug"],
 							[ "June 2014", "mmonitor/2014/june" ]
 						],
-
-	"Election Result Analysis": [
-							[ "Upazila Election March 2014", "elections/2014/upazila_march" ]
-						]
+	"Previous": [
+							[ "Compendium", "previous/compendium"]
+					]
 }
 

@@ -38,13 +38,7 @@
 			<!-- NAVIGATION -->
 			<nav>
 				<p><img src="assets/imgs/icon-menu.svg"></p>
-				<h4>Latest Survey</h4>
-				<a class="_nv_graphs" href="#catss/2014/july">Most Recent Survey Results</a>
-				<a class="_nv_graphs" href="#mmonitor/2014/june">Media Monitoring</a>
-				<a class="_nv_graphs" href="#elections/2014/upazila_march">Election Result Analysis</a>
-				<a class="_nv_graphs" href="#catss/2014/july">Media Survey</a>
-				<h4>Others</h4>
-				<a class="_nv_archive" href="#archive">All Data</a>
+				<a class="_nv_archive" href="#archive">Surveys</a>
 			</nav>
 
 			<!-- NOTIFICATIONS -->
@@ -54,25 +48,28 @@
 			<main>
 				<div id="frontend">
 				</div>
+
 				<div id="textcontainer">
 				</div>
+
 				<div id="graphcontent">
-
-					<div id="surveyselector">
-						<div id="surveymenu">
+					<div id="makeselection">
+						<div id="surveyselector">
+							<div id="surveymenu">
+							</div>
 						</div>
-						<div id="surveyinfo">
+						<div id="groupmenu">
+							<h2></h2>
 						</div>
+						<ul id="questionlist">
+						</ul>
 					</div>
-
-					<div id="groupmenu">
-						<h2></h2>
-					</div>
-
-					<ul id="questionlist"></ul>
 
 					<div id="displayopts">
-						<h1></h1>
+						<div id="surveyinfo"></div>
+						<p id="gp_info"></p>
+						<p id="gp_date"></p>
+						<h3></h3>
 					</div>
 
 				</div>
@@ -90,6 +87,8 @@
 
 		<!-- SCRIPTS -->
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+		<script src="http://code.highcharts.com/highcharts.js" type="text/javascript" charset="utf-8"></script>
+
 		<script src="assets/js/libs.min.js"></script>
 		<script src="assets/js/core.min.js"></script>
 		<script src="assets/js/graphcore.min.js"></script>

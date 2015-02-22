@@ -1,0 +1,52 @@
+{
+			"participants": "mixed",
+			"scope": "Compendium is collections of survey conducted from 2012-2013",
+			"moe": "mixed",
+			"key": "Do You Think Things in Bangladesh are Headed in the Right Direction or the Wrong Direction?",
+			"description": "This graph represents public opinion of the direction the country is heading",
+			"date": "Nov 2012 - May 2014",
+			"type": "SimpleLine",
+			"group":"Direction",
+			"tickvalues": [1354286240000,1364740640000,1367332640000,1375281440000,1383230240000,1385822240000,1391179040000, 1399053600000],
+			"values" : [ {
+				"key": "Wrong Direction",
+				"color": "#d62728",
+				"values": [
+					[1354286240000,47],
+					[1364740640000,68],
+					[1367332640000,84],
+					[1375281440000,58],
+					[1383230240000,54],
+					[1385822240000,62],
+					[1391179040000,69],
+					[1399053600000,49]
+					]
+				}, {
+				"key": "Right Direction",
+				"color": "#1f77b4",
+				"values": [
+					[1354286240000,46],
+					[1364740640000,25],
+					[1367332640000,14],
+					[1375281440000,37],
+					[1383230240000,46],
+					[1385822240000,32],
+					[1391179040000,29],
+					[1399053600000,33]
+					]
+				}, {
+				"key": "Don't Know",
+				"color": "purple",
+				"values":  [
+					[1354286240000,7],
+					[1364740640000,7],
+					[1367332640000,2],
+					[1375281440000,5],
+					[1383230240000,0],
+					[1385822240000,6],
+					[1391179040000,2],
+					[1399053600000,18]
+					]
+				}
+			]
+    }
